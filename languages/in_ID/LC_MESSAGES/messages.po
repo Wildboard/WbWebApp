@@ -1,0 +1,2228 @@
+#: String 0
+msgid "Listing"
+msgstr "Daftar"
+
+#: String 1
+msgid "Categories"
+msgstr "Kategori"
+
+#: String 2
+msgid "Search"
+msgstr "Cari"
+
+#: String 3
+msgid "Publish new "
+msgstr "Publikasikan baru"
+
+#: String 4
+msgid "Login"
+msgstr "Masuk"
+
+#: String 5
+msgid "Forgot password"
+msgstr "Lupa kata sandi"
+
+#: String 6
+msgid "Register"
+msgstr "mendaftar"
+
+#: String 7
+msgid "Change the admin color theme"
+msgstr "Mengubah tema warna admin"
+
+#: String 8
+msgid "Mobile Version"
+msgstr "Versi Mobile"
+
+#: String 9
+msgid "Publish new"
+msgstr "Publikasikan baru"
+
+#: String 10
+msgid "Map"
+msgstr "Peta"
+
+#: String 11
+msgid "Contact"
+msgstr "Menghubungi"
+
+#: String 12
+msgid "Latest Ads"
+msgstr "Iklan Terbaru"
+
+#: String 13
+msgid "New Advertisement"
+msgstr "Baru Iklan"
+
+#: String 14
+msgid "Publish new advertisement"
+msgstr "Publikasikan iklan baru"
+
+#: String 15
+msgid "Featured"
+msgstr "Unggulan"
+
+#: String 16
+msgid "Publish Date"
+msgstr "Tanggal Terbit"
+
+#: String 17
+msgid "Price"
+msgstr "Harga"
+
+#: String 18
+msgid "Read more"
+msgstr "Baca lebih lanjut"
+
+#: String 19
+msgid "Edit"
+msgstr "Mengedit"
+
+#: String 20
+msgid "Deactivate?"
+msgstr "Nonaktifkan?"
+
+#: String 21
+msgid "Deactivate"
+msgstr "Menonaktifkan"
+
+#: String 22
+msgid "Spam?"
+msgstr "Spam?"
+
+#: String 23
+msgid "Spam"
+msgstr "Spam"
+
+#: String 24
+msgid "Delete?"
+msgstr "Hapus?"
+
+#: String 25
+msgid "Delete"
+msgstr "Hapus"
+
+#: String 26
+msgid "We do not have any advertisements in this category"
+msgstr "Kami tidak memiliki iklan di kategori ini"
+
+#: String 27
+msgid "Hits"
+msgstr "Hit"
+
+#: String 28
+msgid "Send Message"
+msgstr "Kirim Pesan"
+
+#: String 29
+msgid "Name"
+msgstr "Nama"
+
+#: String 30
+msgid "Email"
+msgstr "Email"
+
+#: String 31
+msgid "Subject"
+msgstr "Subyek"
+
+#: String 32
+msgid "Message"
+msgstr "Pesan"
+
+#: String 33
+msgid "Captcha"
+msgstr "Captcha"
+
+#: String 34
+msgid "Number of latest ads to display in the home page"
+msgstr "Jumlah iklan terbaru untuk ditampilkan di halaman rumah"
+
+#: String 35
+msgid "Change the color scheme and style of the theme"
+msgstr "Mengubah skema warna dan gaya tema"
+
+#: String 36
+msgid "Header banner, allows HTML"
+msgstr "Spanduk Header, memungkinkan HTML"
+
+#: String 37
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Harap tunggu sementara kami transfer ke Paypal"
+
+#: String 38
+msgid "Click here if you are not redirected"
+msgstr "Klik di sini jika Anda tidak diarahkan"
+
+#: String 39
+msgid "First"
+msgstr "Pertama"
+
+#: String 40
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: String 41
+msgid "Page"
+msgstr "Halaman"
+
+#: String 42
+msgid "Next"
+msgstr "Berikutnya"
+
+#: String 43
+msgid "Last"
+msgstr "Terakhir"
+
+#: String 44
+msgid "Edit Profile"
+msgstr "Edit Profil"
+
+#: String 45
+msgid "Change password"
+msgstr "Ubah password"
+
+#: String 46
+msgid "Old password"
+msgstr "Password lama"
+
+#: String 47
+msgid "Password"
+msgstr "Kata sandi"
+
+#: String 48
+msgid "New password"
+msgstr "Kata sandi baru"
+
+#: String 49
+msgid "Repeat password"
+msgstr "Ulangi sandi"
+
+#: String 50
+msgid "Type your password twice to change"
+msgstr "Ketik password Anda dua kali untuk mengubah"
+
+#: String 51
+msgid "Cancel"
+msgstr "Membatalkan"
+
+#: String 52
+msgid "Send"
+msgstr "Mengirim"
+
+#: String 53
+msgid "My Advertisements"
+msgstr "Iklan saya"
+
+#: String 54
+msgid " New"
+msgstr "Baru"
+
+#: String 55
+msgid "Category"
+msgstr "Kategori"
+
+#: String 56
+msgid "Location"
+msgstr "Lokasi"
+
+#: String 57
+msgid "Status"
+msgstr "Status"
+
+#: String 58
+msgid "Date"
+msgstr "Tanggal"
+
+#: String 59
+msgid "Not published"
+msgstr "Tidak dipublikasikan"
+
+#: String 60
+msgid "Published"
+msgstr "Diterbitkan"
+
+#: String 61
+msgid "Unavailable"
+msgstr "Tidak Tersedia"
+
+#: String 62
+msgid "Update"
+msgstr "Memperbarui"
+
+#: String 63
+msgid "Activate?"
+msgstr "Aktifkan?"
+
+#: String 64
+msgid "Activate"
+msgstr "Mengaktifkan"
+
+#: String 65
+msgid "Refresh listing, go to top?"
+msgstr "Segarkan daftar, pergi ke atas?"
+
+#: String 66
+msgid "Go to top"
+msgstr "Pergi ke atas"
+
+#: String 67
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Apakah Anda yakin ingin menyegarkan daftar dan pergi ke atas?"
+
+#: String 68
+msgid "Make featured?"
+msgstr "Membuat fitur?"
+
+#: String 69
+msgid "Are you sure you want to make it featured?"
+msgstr "Apakah Anda yakin ingin membuatnya tampil?"
+
+#: String 70
+msgid "Deactivate featured?"
+msgstr "Nonaktifkan fitur?"
+
+#: String 71
+msgid "Deactivate featured"
+msgstr "Nonaktifkan fitur"
+
+#: String 72
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Apakah Anda yakin ingin menonaktifkan fitur iklan?"
+
+#: String 73
+msgid "Statistics"
+msgstr "Statistika"
+
+#: String 74
+msgid "Today"
+msgstr "Hari ini"
+
+#: String 75
+msgid "Yesterday"
+msgstr "Kemarin"
+
+#: String 76
+msgid "Last 30 days"
+msgstr "Terakhir 30 hari"
+
+#: String 77
+msgid "Total"
+msgstr "Jumlah"
+
+#: String 78
+msgid "Contacts"
+msgstr "Kontak"
+
+#: String 79
+msgid "Visits"
+msgstr "Kunjungan"
+
+#: String 80
+msgid "Charts"
+msgstr "Grafik"
+
+#: String 81
+msgid "From"
+msgstr "Dari"
+
+#: String 82
+msgid "To"
+msgstr "Untuk"
+
+#: String 83
+msgid "Filter"
+msgstr "Menyaring"
+
+#: String 84
+msgid "Views and Contacts statistic"
+msgstr "Tampilan dan Kontak statistik"
+
+#: String 85
+msgid "Edit Advertisement"
+msgstr "Mengedit Iklan"
+
+#: String 86
+msgid "Id_User"
+msgstr "Id_User"
+
+#: String 87
+msgid "Profile"
+msgstr "Profil"
+
+#: String 88
+msgid "Unpublished"
+msgstr "Tidak diterbitkan"
+
+#: String 89
+msgid "spam"
+msgstr "spam yang"
+
+#: String 90
+msgid "Title"
+msgstr "Judul"
+
+#: String 91
+msgid "Description"
+msgstr "Deskripsi"
+
+#: String 92
+msgid "Delete image"
+msgstr "Menghapus foto"
+
+#: String 93
+msgid "Images"
+msgstr "Gambar"
+
+#: String 94
+msgid "Phone"
+msgstr "Telepon"
+
+#: String 95
+msgid "Address"
+msgstr "Alamat"
+
+#: String 96
+msgid "Website"
+msgstr "Situs web"
+
+#: String 97
+msgid "Panel"
+msgstr "Panel"
+
+#: String 98
+msgid "Market"
+msgstr "Pasar"
+
+#: String 99
+msgid "Moderation"
+msgstr "Moderasi"
+
+#: String 100
+msgid "Stats"
+msgstr "Statistik"
+
+#: String 101
+msgid "Widgets"
+msgstr "Widget"
+
+#: String 102
+msgid "New"
+msgstr "Baru"
+
+#: String 103
+msgid "Welcome"
+msgstr "Selamat datang"
+
+#: String 104
+msgid "Thanks for using our website."
+msgstr "Terima kasih untuk menggunakan situs kami."
+
+#: String 105
+msgid "Advertisements"
+msgstr "Iklan"
+
+#: String 106
+msgid "Locations"
+msgstr "Lokasi"
+
+#: String 107
+msgid "Orders"
+msgstr "Pesanan"
+
+#: String 108
+msgid "Content"
+msgstr "Isi"
+
+#: String 109
+msgid "Translations"
+msgstr "Terjemahan"
+
+#: String 110
+msgid "Newsletters"
+msgstr "Newsletter"
+
+#: String 111
+msgid "Themes"
+msgstr "Tema"
+
+#: String 112
+msgid "Theme Options"
+msgstr "Pilihan tema"
+
+#: String 113
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: String 114
+msgid "General"
+msgstr "Umum"
+
+#: String 115
+msgid "Payment"
+msgstr "Pembayaran"
+
+#: String 116
+msgid "Advertisement"
+msgstr "Iklan"
+
+#: String 117
+msgid "Users"
+msgstr "Pengguna"
+
+#: String 118
+msgid "User Roles"
+msgstr "Peran Pengguna"
+
+#: String 119
+msgid "Roles access"
+msgstr "Akses Peran"
+
+#: String 120
+msgid "Tools"
+msgstr "Alat"
+
+#: String 121
+msgid "Updates"
+msgstr "Pembaruan"
+
+#: String 122
+msgid "Sitemap"
+msgstr "mapsitus"
+
+#: String 123
+msgid "Migration"
+msgstr "Migrasi"
+
+#: String 124
+msgid "Optimize"
+msgstr "Optimalkan"
+
+#: String 125
+msgid "Cache"
+msgstr "Cache"
+
+#: String 126
+msgid "Logs"
+msgstr "Log"
+
+#: String 127
+msgid "PHP Info"
+msgstr "Info PHP"
+
+#: String 128
+msgid "Edit profile"
+msgstr "Mengedit profil"
+
+#: String 129
+msgid "Public profile"
+msgstr "Profil publik"
+
+#: String 130
+msgid "Home"
+msgstr "Rumah"
+
+#: String 131
+msgid "Actions"
+msgstr "Tindakan"
+
+#: String 132
+msgid "Are you sure you want to delete?"
+msgstr "Apakah Anda yakin ingin menghapus?"
+
+#: String 133
+msgid "Logout"
+msgstr "Logout"
+
+#: String 134
+msgid "Visit Site"
+msgstr "Kunjungi Situs"
+
+#: String 135
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Berikut tercantum nilai konfigurasi tema tertentu. Ganti field input dengan nilai-nilai yang diinginkan baru untuk tema."
+
+#: String 136
+msgid "Using mobile theme"
+msgstr "Menggunakan mobile tema"
+
+#: String 137
+msgid "Disable"
+msgstr "Melumpuhkan"
+
+#: String 138
+msgid "Options"
+msgstr "Pilihan"
+
+#: String 139
+msgid "You can change the look and feel of your website here."
+msgstr "Anda dapat mengubah tampilan dan nuansa situs Anda di sini."
+
+#: String 140
+msgid "Current Theme"
+msgstr "Tema saat ini"
+
+#: String 141
+msgid "Available Themes"
+msgstr "Tema yang tersedia"
+
+#: String 142
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: String 143
+msgid "Available Mobile Themes"
+msgstr "Tersedia Tema Ponsel"
+
+#: String 144
+msgid "Themes Market"
+msgstr "Pasar Tema"
+
+#: String 145
+msgid "Here you can find a selection of our premium themes."
+msgstr "Disini Anda dapat menemukan pilihan tema kami premium."
+
+#: String 146
+msgid "All themes include support, updates and 1 site license."
+msgstr "Semua tema termasuk dukungan, update dan 1 lisensi situs."
+
+#: String 147
+msgid "Site Usage Statistics"
+msgstr "Situs Statistik pengaksesan"
+
+#: String 148
+msgid "Ads"
+msgstr "Iklan"
+
+#: String 149
+msgid "Sales"
+msgstr "Penjualan"
+
+#: String 150
+msgid "Views and Ads statistics"
+msgstr "Tampilan dan statistik Iklan"
+
+#: String 151
+msgid "Sales statistics"
+msgstr "Statistik penjualan"
+
+#: String 152
+msgid "Available widgets"
+msgstr "Widget yang tersedia"
+
+#: String 153
+msgid "Create"
+msgstr "Menciptakan"
+
+#: String 154
+msgid "Where do you want the widget displayed?"
+msgstr "Di mana Anda ingin widget ditampilkan?"
+
+#: String 155
+msgid "Close"
+msgstr "Menutup"
+
+#: String 156
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "Anda yakin ingin menghapus widget? Anda dapat memindahkannya ke placeholder aktif"
+
+#: String 157
+msgid "Save changes"
+msgstr "Simpan perubahan"
+
+#: String 158
+msgid "Limited Offer!"
+msgstr "Penawaran Terbatas!"
+
+#: String 159
+msgid "Valid Until"
+msgstr "Berlaku Sampai"
+
+#: String 160
+msgid "Buy Now"
+msgstr "Beli Sekarang"
+
+#: String 161
+msgid "More info"
+msgstr "Info lebih lanjut"
+
+#: String 162
+msgid "Selection of nice extras for your installation."
+msgstr "Pemilihan tambahan yang bagus untuk instalasi Anda."
+
+#: String 163
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Mengubah urutan kategori Anda. Perlu diingat bahwa lebih dari 2 tingkat bersarang mungkin tidak akan ditampilkan dalam tema (tidak disarankan)."
+
+#: String 164
+msgid "New category"
+msgstr "Kategori baru"
+
+#: String 165
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "Apakah Anda yakin ingin menghapus? Kami akan memindahkan saudara kategori dan iklan kepada orang tua kategori ini."
+
+#: String 166
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Mengubah urutan lokasi Anda. Perlu diingat bahwa lebih dari 2 tingkat bersarang mungkin tidak akan ditampilkan dalam tema (tidak disarankan)."
+
+#: String 167
+msgid "New location"
+msgstr "Lokasi baru"
+
+#: String 168
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Apakah Anda yakin ingin menghapus? Kami akan memindahkan lokasi saudara dan iklan kepada orang tua lokasi ini."
+
+#: String 169
+msgid "Newsletter"
+msgstr "Laporan berkala"
+
+#: String 170
+msgid "Email Settings"
+msgstr "Pengaturan Email"
+
+#: String 171
+msgid "You can send a mass email to all active users."
+msgstr "Anda dapat mengirim pesan untuk semua user aktif."
+
+#: String 172
+msgid "From Email"
+msgstr "Dari Email"
+
+#: String 173
+msgid "Optimize Database"
+msgstr "Optimalkan database"
+
+#: String 174
+msgid "Database space"
+msgstr "Ruang database"
+
+#: String 175
+msgid "Space to optimize"
+msgstr "Ruang untuk mengoptimalkan"
+
+#: String 176
+msgid "Table"
+msgstr "Tabel"
+
+#: String 177
+msgid "Rows"
+msgstr "Baris"
+
+#: String 178
+msgid "Size"
+msgstr "Ukuran"
+
+#: String 179
+msgid "Save size"
+msgstr "Simpan ukuran"
+
+#: String 180
+msgid "Cache configuration information"
+msgstr "Informasi konfigurasi Cache"
+
+#: String 181
+msgid "Delete all"
+msgstr "Hapus semua"
+
+#: String 182
+msgid "Delete expired"
+msgstr "Menghapus kadaluarsa"
+
+#: String 183
+msgid "Config file"
+msgstr "File konfigurasi"
+
+#: String 184
+msgid "System Logs"
+msgstr "Sistem Log"
+
+#: String 185
+msgid "Reading log file"
+msgstr "Membaca file log"
+
+#: String 186
+msgid "Log"
+msgstr "Mencatat"
+
+#: String 187
+msgid "Your PHP time limit is"
+msgstr "Batas waktu Anda PHP"
+
+#: String 188
+msgid "seconds"
+msgstr "detik"
+
+#: String 189
+msgid "Host name"
+msgstr "Nama host"
+
+#: String 190
+msgid "User name"
+msgstr "Nama pengguna"
+
+#: String 191
+msgid "Database name"
+msgstr "Nama database"
+
+#: String 192
+msgid "Database charset"
+msgstr "Database charset"
+
+#: String 193
+msgid "Table prefix"
+msgstr "Tabel awalan"
+
+#: String 194
+msgid "Migrate"
+msgstr "Bermigrasi"
+
+#: String 195
+msgid "Last time generated"
+msgstr "Terakhir kali dihasilkan"
+
+#: String 196
+msgid "Generate"
+msgstr "Menghasilkan"
+
+#: String 197
+msgid "Expire time"
+msgstr "Berakhir waktu"
+
+#: String 198
+msgid "Update on publish"
+msgstr "Update pada mempublikasikan"
+
+#: String 199
+msgid "Save"
+msgstr "Menyimpan"
+
+#: String 200
+msgid "Versions"
+msgstr "Versi"
+
+#: String 201
+msgid "Open Classifieds release history information."
+msgstr "Buka Rahasia rilis informasi sejarah."
+
+#: String 202
+msgid "Your installation version is"
+msgstr "Instalasi versi Anda"
+
+#: String 203
+msgid "Your Hash Key for this installation is"
+msgstr "Key Hash Anda untuk instalasi ini"
+
+#: String 204
+msgid "Check for updates"
+msgstr "Periksa pembaruan"
+
+#: String 205
+msgid "Version"
+msgstr "Versi"
+
+#: String 206
+msgid "Information"
+msgstr "Informasi"
+
+#: String 207
+msgid "Latest"
+msgstr "Terbaru"
+
+#: String 208
+msgid "Current"
+msgstr "Arus"
+
+#: String 209
+msgid "Email Configuration"
+msgstr "Konfigurasi Email"
+
+#: String 210
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "Daftar nilai konfigurasi umum. Ganti field input dengan nilai-nilai baru yang diinginkan"
+
+#: String 211
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "Jika Anda perlu mengirim banyak email dengan tingkat pengiriman tinggi Check"
+
+#: String 212
+msgid "Notify email"
+msgstr "Beritahu email"
+
+#: String 213
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "Email dari mana kita mengirim email, juga digunakan untuk komunikasi perangkat lunak."
+
+#: String 214
+msgid "Email From"
+msgstr "Email Dari"
+
+#: String 215
+msgid "Smtp active"
+msgstr "Smtp aktif"
+
+#: String 216
+msgid "Smtp ssl"
+msgstr "Smtp ssl"
+
+#: String 217
+msgid "Smtp host"
+msgstr "Smtp tuan"
+
+#: String 218
+msgid "Smtp port"
+msgstr "Port smtp"
+
+#: String 219
+msgid "Smtp auth"
+msgstr "Smtp auth"
+
+#: String 220
+msgid "Smtp user"
+msgstr "Pengguna smtp"
+
+#: String 221
+msgid "Smtp password"
+msgstr "Smtp sandi"
+
+#: String 222
+msgid "Advertisement Configuration"
+msgstr "Iklan Konfigurasi"
+
+#: String 223
+msgid "Number of images"
+msgstr "Jumlah gambar"
+
+#: String 224
+msgid "Number of images displayed"
+msgstr "Jumlah gambar yang ditampilkan"
+
+#: String 225
+msgid "Ad expiration date"
+msgstr "Tanggal kedaluwarsa Iklan"
+
+#: String 226
+msgid "Expire days"
+msgstr "Kadaluarsa hari"
+
+#: String 227
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Setelah berapa hari Iklan akan berakhir. 0 untuk tidak pernah"
+
+#: String 228
+msgid "Days"
+msgstr "Hari-hari"
+
+#: String 229
+msgid "Address field"
+msgstr "Kolom alamat"
+
+#: String 230
+msgid "Displays the field Address in the Ad form."
+msgstr "Menampilkan Alamat lapangan dalam bentuk iklan."
+
+#: String 231
+msgid "Google Maps in Ad"
+msgstr "Peta Google di Ad"
+
+#: String 232
+msgid "Displays the google maps in the Ad."
+msgstr "Menampilkan google maps di Ad."
+
+#: String 233
+msgid "Phone field"
+msgstr "Field Phone"
+
+#: String 234
+msgid "Displays the field Phone in the Ad form."
+msgstr "Menampilkan Telepon lapangan dalam bentuk iklan."
+
+#: String 235
+msgid "Website field"
+msgstr "Field Website"
+
+#: String 236
+msgid "Displays the field Website in the Ad form."
+msgstr "Menampilkan Website lapangan dalam bentuk iklan."
+
+#: String 237
+msgid "Displays location select"
+msgstr "Menampilkan lokasi pilih"
+
+#: String 238
+msgid "Displays the Select Location in the Ad form."
+msgstr "Menampilkan Pilih Lokasi dalam bentuk iklan."
+
+#: String 239
+msgid "Price field"
+msgstr "Bidang harga"
+
+#: String 240
+msgid "Displays the field Price in the Ad form."
+msgstr "Menampilkan Harga lapangan dalam bentuk iklan."
+
+#: String 241
+msgid "Upload file"
+msgstr "Unggah file"
+
+#: String 242
+msgid "Enables Captcha"
+msgstr "Mengaktifkan Captcha"
+
+#: String 243
+msgid "Captcha appears in the form."
+msgstr "Captcha muncul dalam bentuk."
+
+#: String 244
+msgid "Deactivated"
+msgstr "Dinonaktifkan"
+
+#: String 245
+msgid "Terms of Service"
+msgstr "Ketentuan Layanan"
+
+#: String 246
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 247
+msgid "Disqus Comments"
+msgstr "Komentar Disqus"
+
+#: String 248
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Anda perlu menulis ID Disqus Anda untuk mengaktifkan layanan tersebut."
+
+#: String 249
+msgid "Payments Configuration"
+msgstr "Konfigurasi Pembayaran"
+
+#: String 250
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Daftar nilai konfigurasi pembayaran. Ganti field input dengan nilai-nilai baru yang diinginkan."
+
+#: String 251
+msgid "Paypal account"
+msgstr "Account paypal"
+
+#: String 252
+msgid "Paypal mail address"
+msgstr "Mail Paypal"
+
+#: String 253
+msgid "The paypal email address where the payments will be sent"
+msgstr "Alamat email paypal di mana pembayaran akan dikirim"
+
+#: String 254
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 255
+msgid "Paypal currency"
+msgstr "Mata uang Paypal"
+
+#: String 256
+msgid "Currency"
+msgstr "Mata uang"
+
+#: String 257
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Pastikan Anda menggunakan mata uang yang mendukung paypal."
+
+#: String 258
+msgid "Featured Ads"
+msgstr "Iklan yang ditampilkan"
+
+#: String 259
+msgid "Featured ads"
+msgstr "Iklan yang ditampilkan"
+
+#: String 260
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Iklan yang ditampilkan akan disorot untuk nomor ditetapkan hari."
+
+#: String 261
+msgid "Price for featuring the Ad"
+msgstr "Harga untuk menampilkan Ad"
+
+#: String 262
+msgid "Pricing"
+msgstr "Lanjut"
+
+#: String 263
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Berapa banyak pengguna perlu membayar untuk fitur Iklan"
+
+#: String 264
+msgid "Days Featured"
+msgstr "Hari Unggulan"
+
+#: String 265
+msgid "Featured length"
+msgstr "Panjang Feature"
+
+#: String 266
+msgid "How many days an ad will be featured after paying."
+msgstr "Berapa hari iklan akan tampil setelah membayar."
+
+#: String 267
+msgid "Bring to top Ad"
+msgstr "Bawa ke atas Iklan"
+
+#: String 268
+msgid "Brings your Ad to the top of the listing."
+msgstr "Membawa Iklan Anda ke bagian atas daftar."
+
+#: String 269
+msgid "To top price"
+msgstr "Untuk harga tertinggi"
+
+#: String 270
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Berapa banyak pengguna perlu membayar untuk top up Iklan"
+
+#: String 271
+msgid "General Configuration"
+msgstr "Konfigurasi Umum"
+
+#: String 272
+msgid "General site settings."
+msgstr "Pengaturan situs umum."
+
+#: String 273
+msgid "All configurations"
+msgstr "Semua konfigurasi"
+
+#: String 274
+msgid "Maintenance Mode"
+msgstr "Pemeliharaan Modus"
+
+#: String 275
+msgid "Enables the site to maintenance"
+msgstr "Memungkinkan situs untuk pemeliharaan"
+
+#: String 276
+msgid "Site name"
+msgstr "Nama situs"
+
+#: String 277
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Disini Anda dapat mendeklarasikan nama tampilan Anda. Ini terlihat oleh semua orang!"
+
+#: String 278
+msgid "Site Name"
+msgstr "Nama Situs"
+
+#: String 279
+msgid "Site description"
+msgstr "Deskripsi lokasi"
+
+#: String 280
+msgid "Base URL"
+msgstr "URL Basis"
+
+#: String 281
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "Adalah jalan dasar situs Anda (misalnya http://open-classifieds.com/). Segala sesuatu yang lain dibangun berdasarkan bidang ini."
+
+#: String 282
+msgid "Base URL path"
+msgstr "Path URL Basis"
+
+#: String 283
+msgid "Moderation controls"
+msgstr "Kontrol Moderasi"
+
+#: String 284
+msgid "Global currency"
+msgstr "Mata uang global"
+
+#: String 285
+msgid "Global currency is country specific. There are no restrictions, this is only to declare currency for advertisements. Note: This is different from payment currencies. "
+msgstr "Mata uang global adalah negara tertentu. Tidak ada batasan, ini hanya untuk menyatakan mata uang untuk iklan. Catatan: Ini berbeda dari mata uang pembayaran."
+
+#: String 286
+msgid "Country specific currency"
+msgstr "Mata uang tertentu Negara"
+
+#: String 287
+msgid "Advertisements per page"
+msgstr "Iklan per halaman"
+
+#: String 288
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Ini adalah untuk mengontrol bagaimana banyak iklan sedang ditampilkan per halaman. Menyisipkan nilai integer, sebagai batas nomor."
+
+#: String 289
+msgid "Number of ads per page"
+msgstr "Jumlah iklan per halaman"
+
+#: String 290
+msgid "Advertisements in RSS"
+msgstr "Iklan di RSS"
+
+#: String 291
+msgid "Number of Ads"
+msgstr "Jumlah Iklan"
+
+#: String 292
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Berapa banyak iklan yang akan muncul di RSS dari situs Anda."
+
+#: String 293
+msgid "Advertisements in Map"
+msgstr "Iklan di Peta"
+
+#: String 294
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Berapa banyak iklan yang akan muncul di peta situs Anda."
+
+#: String 295
+msgid "Number format"
+msgstr "Format angka"
+
+#: String 296
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Format angka adalah bagaimana Anda ingin menampilkan nomor yang terkait dengan iklan. Harga iklan lebih spesifik. Setiap negara memiliki cara khusus berurusan dengan angka desimal."
+
+#: String 297
+msgid "Decimal representation"
+msgstr "Representasi desimal"
+
+#: String 298
+msgid "Date format"
+msgstr "Format tanggal"
+
+#: String 299
+msgid "Each advertisement have a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "Setiap iklan memiliki tanggal publish. Dengan memilih Format, Anda dapat mengubah bagaimana ditampilkan di website Anda."
+
+#: String 300
+msgid "Analytics"
+msgstr "Analytics"
+
+#: String 301
+msgid "Allowed image formats"
+msgstr "Format gambar Diizinkan"
+
+#: String 302
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Mengatur ini untuk membatasi format gambar yang sedang upload ke server Anda."
+
+#: String 303
+msgid "Max image size"
+msgstr "Ukuran gambar Max"
+
+#: String 304
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Mengontrol ukuran gambar yang di-upload. Masukkan nilai integer untuk mengatur ukuran gambar maksimal dalam mega gigitan (Mb)."
+
+#: String 305
+msgid "Image size in mega bites(Mb)"
+msgstr "Ukuran foto di mega gigitan (Mb)"
+
+#: String 306
+msgid "Image height"
+msgstr "Tinggi gambar"
+
+#: String 307
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Setiap gambar diubah ukurannya saat upload. Ini adalah ketinggian gambar besar. Catatan: Anda dapat membiarkan field ini kosong untuk mengatur resize tinggi AUTO."
+
+#: String 308
+msgid "Image height in pixels(px)"
+msgstr "Tinggi gambar dalam pixel (px)"
+
+#: String 309
+msgid "Image width"
+msgstr "Lebar gambar"
+
+#: String 310
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Setiap gambar diubah ukurannya saat upload. Ini adalah lebar gambar besar."
+
+#: String 311
+msgid "Image width in pixels(px)"
+msgstr "Lebar gambar dalam pixel (px)"
+
+#: String 312
+msgid "Thumb height"
+msgstr "Tinggi Thumb"
+
+#: String 313
+msgid "Thumb is a small image resized to fit certain elements. This is height of this image."
+msgstr "Thumb adalah gambar kecil ukurannya agar sesuai unsur-unsur tertentu. Ini adalah ketinggian gambar ini."
+
+#: String 314
+msgid "Thumb height in pixels(px)"
+msgstr "Thumb tinggi dalam pixel (px)"
+
+#: String 315
+msgid "Thumb width"
+msgstr "Lebar Thumb"
+
+#: String 316
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Thumb adalah gambar kecil ukurannya agar sesuai unsur-unsur tertentu. Ini adalah lebar gambar ini."
+
+#: String 317
+msgid "Thumb width in pixels(px)"
+msgstr "Lebar Thumb dalam pixel (px)"
+
+#: String 318
+msgid "Image quality"
+msgstr "Kualitas gambar"
+
+#: String 319
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Pilih kualitas gambar yang disimpan (1-100% dari aslinya)."
+
+#: String 320
+msgid "Image Quality"
+msgstr "Kualitas Gambar"
+
+#: String 321
+msgid "Here you can modify any text you find in your web."
+msgstr "Di sini Anda dapat mengubah teks apapun yang Anda temukan di web Anda."
+
+#: String 322
+msgid "Original Translation"
+msgstr "Asli Terjemahan"
+
+#: String 323
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Salin semua?, Sadarilah ini akan mengganti semua teks Anda."
+
+#: String 324
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Terjemahkan semua?, Sadarilah ini akan mengganti semua teks Anda."
+
+#: String 325
+msgid "Translation"
+msgstr "Terjemahan"
+
+#: String 326
+msgid "Translations files available in the system."
+msgstr "Translations file yang tersedia dalam sistem."
+
+#: String 327
+msgid "Scan"
+msgstr "Mengamati"
+
+#: String 328
+msgid "New translation"
+msgstr "Terjemahan baru"
+
+#: String 329
+msgid "Language"
+msgstr "Bahasa"
+
+#: String 330
+msgid "Active"
+msgstr "Aktif"
+
+#: String 331
+msgid "Spam Sort"
+msgstr "Spam Sortir"
+
+#: String 332
+msgid "Unavailable Sort"
+msgstr "Unavailable Sortir"
+
+#: String 333
+msgid " Unavailable"
+msgstr "Tidak Tersedia"
+
+#: String 334
+msgid "General configurations are set. Replace input fields with new desired values."
+msgstr "Konfigurasi umum ditetapkan. Ganti field input dengan nilai-nilai baru yang diinginkan."
+
+#: String 335
+msgid "Deactivate Featured"
+msgstr "Nonaktifkan Fitur"
+
+#: String 336
+msgid "Thanks for using Open Classifieds."
+msgstr "Terima kasih untuk menggunakan Open Rahasia."
+
+#: String 337
+msgid "Latest News"
+msgstr "Berita Terbaru"
+
+#: String 338
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+#: String 339
+msgid "User Profile"
+msgstr "Profil Pengguna"
+
+#: String 340
+msgid "Created"
+msgstr "Dibuat"
+
+#: String 341
+msgid "Last Login"
+msgstr "Terakhir Login"
+
+#: String 342
+msgid " advertisements"
+msgstr "iklan"
+
+#: String 343
+msgid "Not yet published"
+msgstr "Belum diterbitkan"
+
+#: String 344
+msgid "Remember password"
+msgstr "Ingat sandi"
+
+#: String 345
+msgid "Forgot password?"
+msgstr "Lupa kata sandi?"
+
+#: String 346
+msgid "Remember me"
+msgstr "Ingat saya"
+
+#: String 347
+msgid "Type your password twice"
+msgstr "Ketik password Anda dua kali"
+
+#: String 348
+msgid "Terms of service"
+msgstr "Ketentuan Layanan"
+
+#: String 349
+msgid "User account will be created"
+msgstr "User account akan dibuat"
+
+#: String 350
+msgid "Advanced Search"
+msgstr "Pencarian Lanjutan"
+
+#: String 351
+msgid "Advertisement Title"
+msgstr "Iklan Judul"
+
+#: String 352
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: String 353
+msgid "Download"
+msgstr "Unduh"
+
+#: String 354
+msgid "Header tool bar gets fixed in the top"
+msgstr "Header tool bar akan tetap di atas"
+
+#: String 355
+msgid "Yes"
+msgstr "Ya"
+
+#: String 356
+msgid "No"
+msgstr "Tidak"
+
+#: String 357
+msgid "Display breadcrumb"
+msgstr "Tampilan breadcrumb"
+
+#: String 358
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr "URL untuk Logo Anda. Direkomendasikan ukuran x 250px 40px. Kosongkan tidak ada."
+
+#: String 359
+msgid "Short description that appears after the site name."
+msgstr "Deskripsi singkat yang muncul setelah nama situs."
+
+#: String 360
+msgid "Numbers of ads to display in home slider"
+msgstr "Jumlah iklan yang ditampilkan dalam slider rumah"
+
+#: String 361
+msgid "Where you want the sidebar to appear"
+msgstr "Dimana anda ingin menampilkan sidebar."
+
+#: String 362
+msgid "Right side"
+msgstr "Sisi Kanan"
+
+#: String 363
+msgid "Left side"
+msgstr "Sisi kiri"
+
+#: String 364
+msgid "Menu"
+msgstr "Menu"
+
+#: String 365
+msgid "Contact us"
+msgstr "Hubungi kami"
+
+#: String 366
+msgid "Advanced search"
+msgstr "Pencarian lanjutan"
+
+#: String 367
+msgid "Desktop Version"
+msgstr "Versi Desktop"
+
+#: String 368
+msgid "Public Profile"
+msgstr "Profil publik"
+
+#: String 369
+msgid "advertisements"
+msgstr "iklan"
+
+#: String 370
+msgid "Change the main color scheme and style of the theme"
+msgstr "Mengubah skema warna utama dan gaya tema"
+
+#: String 371
+msgid "Change the header color scheme and style of the theme"
+msgstr "Mengubah skema warna header dan gaya tema"
+
+#: String 372
+msgid "Change the theme of List Elements"
+msgstr "Mengubah tema Daftar Elemen"
+
+#: String 373
+msgid "Change the theme of Featured Elements"
+msgstr "Mengubah tema Elemen Feature"
+
+#: String 374
+msgid "Installation"
+msgstr "Instalasi"
+
+#: String 375
+msgid "Requirements"
+msgstr "Persyaratan"
+
+#: String 376
+msgid "Congratulations"
+msgstr "Selamat"
+
+#: String 377
+msgid "Installation done"
+msgstr "Instalasi dilakukan"
+
+#: String 378
+msgid "Please now erase the folder"
+msgstr "Silakan sekarang menghapus folder"
+
+#: String 379
+msgid "Go to Your Website"
+msgstr "Pergi ke Website Anda"
+
+#: String 380
+msgid "Make a donation"
+msgstr "Membuat sumbangan"
+
+#: String 381
+msgid "We really appreciate it"
+msgstr "Kami sangat menghargai itu"
+
+#: String 382
+msgid "Welcome to"
+msgstr "Selamat Datang"
+
+#: String 383
+msgid "installation"
+msgstr "instalasi"
+
+#: String 384
+msgid "Welcome to the super easy and fast installation"
+msgstr "Selamat datang di instalasi super mudah dan cepat"
+
+#: String 385
+msgid "If you need any help please check our professional services"
+msgstr "Jika Anda memerlukan bantuan silahkan cek layanan profesional kami"
+
+#: String 386
+msgid "Site Configuration"
+msgstr "Konfigurasi situs"
+
+#: String 387
+msgid "Site Language"
+msgstr "Bahasa Situs"
+
+#: String 388
+msgid "Site URL"
+msgstr "URL situs"
+
+#: String 389
+msgid "Time Zone"
+msgstr "Zona Waktu"
+
+#: String 390
+msgid "New Install"
+msgstr "Baru Install"
+
+#: String 391
+msgid "Upgrade System"
+msgstr "Meng-upgrade Sistem"
+
+#: String 392
+msgid "Administrator email"
+msgstr "Email Administrator"
+
+#: String 393
+msgid "Admin Password"
+msgstr "Password Admin"
+
+#: String 394
+msgid "Sample data"
+msgstr "Data sampel"
+
+#: String 395
+msgid "Creates few sample categories to start with"
+msgstr "Menciptakan beberapa kategori sampel untuk memulai dengan"
+
+#: String 396
+msgid "Hash Key"
+msgstr "Hash Key"
+
+#: String 397
+msgid "You need the Hash Key to re-install. You can find this value if you lost it at"
+msgstr "Anda memerlukan Kode Hash menginstal ulang. Anda dapat menemukan nilai ini jika Anda kehilangan itu pada"
+
+#: String 398
+msgid "Database Configuration"
+msgstr "Konfigurasi Database"
+
+#: String 399
+msgid "Allows multiple installations in one database if you give each one a unique prefix"
+msgstr "Memungkinkan beberapa instalasi dalam satu database jika Anda memberikan masing-masing awalan unik"
+
+#: String 400
+msgid "Only numbers, letters, and underscores"
+msgstr "Hanya angka, huruf, dan garis bawah"
+
+#: String 401
+msgid "Install"
+msgstr "Memasang"
+
+#: String 402
+msgid "Ocacu classifieds community registration"
+msgstr "Ocacu baris pendaftaran komunitas"
+
+#: String 403
+msgid "Terms"
+msgstr "Syarat"
+
+#: String 404
+msgid "Cannot connect to server"
+msgstr "Tidak dapat terhubung ke server"
+
+#: String 405
+msgid "No database name was given"
+msgstr "Tidak ada nama database diberikan"
+
+#: String 406
+msgid "Available databases"
+msgstr "Database yang tersedia"
+
+#: String 407
+msgid "Invalid query"
+msgstr "Permintaan tidak valid"
+
+#: String 408
+msgid "Benchmark"
+msgstr "Tolok Ukur"
+
+#: String 409
+msgid "Application Execution"
+msgstr "Eksekusi Aplikasi"
+
+#: String 410
+msgid "Hello, world"
+msgstr "Halo, dunia"
+
+#: String 411
+msgid "Environment"
+msgstr "Lingkungan"
+
+#: String 412
+msgid "Included files"
+msgstr "Termasuk file"
+
+#: String 413
+msgid "Loaded extensions"
+msgstr "Ekstensi Loaded"
+
+#: String 414
+msgid "publish new"
+msgstr "mempublikasikan baru"
+
+#: String 415
+msgid "search"
+msgstr "mencari"
+
+#: String 416
+msgid "contact"
+msgstr "menghubungi"
+
+#: String 417
+msgid "map"
+msgstr "peta"
+
+#: String 418
+msgid "maintenance"
+msgstr "pemeliharaan"
+
+#: String 419
+msgid "views"
+msgstr "views"
+
+#: String 420
+msgid "ads"
+msgstr "Iklan"
+
+#: String 421
+msgid "users"
+msgstr "pengguna"
+
+#: String 422
+msgid "# items to display"
+msgstr "# Item untuk ditampilkan"
+
+#: String 423
+msgid "RSS"
+msgstr "RSS"
+
+#: String 424
+msgid "RSS reader with cache"
+msgstr "RSS reader dengan tembolok"
+
+#: String 425
+msgid "Number items to display"
+msgstr "Item nomor untuk menampilkan"
+
+#: String 426
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Seberapa sering kita refresh RSS, dalam hitungan detik"
+
+#: String 427
+msgid "RSS url address"
+msgstr "Alamat url RSS"
+
+#: String 428
+msgid "RSS title displayed"
+msgstr "RSS judul ditampilkan"
+
+#: String 429
+msgid "Share"
+msgstr "Berbagi"
+
+#: String 430
+msgid "Share on social networks."
+msgstr "Berbagi di jaringan sosial."
+
+#: String 431
+msgid "Title displayed"
+msgstr "Judul ditampilkan"
+
+#: String 432
+msgid "Add latest comments"
+msgstr "Tambahkan komentar terbaru"
+
+#: String 433
+msgid "Comments"
+msgstr "Komentar"
+
+#: String 434
+msgid "Number of comments to display"
+msgstr "Jumlah komentar untuk ditampilkan"
+
+#: String 435
+msgid "Google Maps with ads"
+msgstr "Peta Google dengan iklan"
+
+#: String 436
+msgid "Map title displayed"
+msgstr "Judul peta yang ditampilkan"
+
+#: String 437
+msgid "Map height in pixels"
+msgstr "Peta tinggi dalam piksel"
+
+#: String 438
+msgid "Zoom in the map"
+msgstr "Perbesar peta"
+
+#: String 439
+msgid "Display categories"
+msgstr "Menampilkan kategori"
+
+#: String 440
+msgid "Categories title displayed"
+msgstr "Kategori judul ditampilkan"
+
+#: String 441
+msgid "Display Locations"
+msgstr "Tampilan Lokasi"
+
+#: String 442
+msgid "Locations title displayed"
+msgstr "Lokasi judul ditampilkan"
+
+#: String 443
+msgid "Text"
+msgstr "Teks"
+
+#: String 444
+msgid "HTML textarea"
+msgstr "HTML textarea"
+
+#: String 445
+msgid "Text title displayed"
+msgstr "Judul teks yang ditampilkan"
+
+#: String 446
+msgid "HTML/text content here"
+msgstr "HTML konten / teks di sini"
+
+#: String 447
+msgid "Ads reader"
+msgstr "Iklan pembaca"
+
+#: String 448
+msgid "Type ads to display"
+msgstr "Jenis iklan untuk menampilkan"
+
+#: String 449
+msgid "Popular Ads last month"
+msgstr "Iklan populer bulan lalu"
+
+#: String 450
+msgid "Number of ads to display"
+msgstr "Jumlah iklan untuk menampilkan"
+
+#: String 451
+msgid "Ads title displayed"
+msgstr "Judul iklan yang ditampilkan"
+
+#: String 452
+msgid "Pages"
+msgstr "Halaman"
+
+#: String 453
+msgid "Display CMS pages"
+msgstr "Menampilkan halaman CMS"
+
+#: String 454
+msgid "Page title displayed"
+msgstr "Judul halaman yang ditampilkan"
+
+#: String 455
+msgid "Display site stats"
+msgstr "Tampilan statistik situs"
+
+#: String 456
+msgid "Submit"
+msgstr "Menyerahkan"
+
+#: String 457
+msgid "Other"
+msgstr "Lainnya"
+
+#: String 458
+msgid "Role"
+msgstr "Peran"
+
+#: String 459
+msgid "Last modified"
+msgstr "Terakhir diubah"
+
+#: String 460
+msgid "Last login"
+msgstr "Login terakhir"
+
+#: String 461
+msgid "User"
+msgstr "Pengguna"
+
+#: String 462
+msgid "Type"
+msgstr "Jenis"
+
+#: String 463
+msgid "SEO title"
+msgstr "SEO judul"
+
+#: String 464
+msgid "Ip address"
+msgstr "Alamat Ip"
+
+#: String 465
+msgid "Has images"
+msgstr "Memiliki gambar"
+
+#: String 466
+msgid "Parent"
+msgstr "Induk"
+
+#: String 467
+msgid "Parent deep"
+msgstr "Induk yang mendalam"
+
+#: String 468
+msgid "Seoname"
+msgstr "Seoname"
+
+#: String 469
+msgid "Id"
+msgstr "Id"
+
+#: String 470
+msgid "Order"
+msgstr "Urutan"
+
+#: String 471
+msgid "Info"
+msgstr "Info"
+
+#: String 472
+msgid "Warning"
+msgstr "Peringatan"
+
+#: String 473
+msgid "Error"
+msgstr "Kesalahan"
+
+#: String 474
+msgid "Success"
+msgstr "Keberhasilan"
+
+#: String 475
+msgid "New profile has been created. Welcome "
+msgstr "Profil baru telah dibuat. Selamat datang"
+
+#: String 476
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Sesuatu yang tidak beres dengan meng-upload foto, silahkan cek Format"
+
+#: String 477
+msgid "Something went wrong with uploading pictures"
+msgstr "Sesuatu yang tidak beres dengan meng-upload gambar"
+
+#: String 478
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Iklan yang diposting tapi pertama-tama Anda perlu mengaktifkan. Silakan periksa email Anda!"
+
+#: String 479
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Iklan diterima, namun administrator pertama perlu memvalidasi. Terima kasih atas kesabaran!"
+
+#: String 480
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Iklan yang diposting. Selamat!"
+
+#: String 481
+msgid "Captcha is not correct"
+msgstr "Captcha tidak benar"
+
+#: String 482
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Kami sedang bekerja pada situs kami, silakan kunjungi nanti. Terima kasih"
+
+#: String 483
+msgid "Latest published"
+msgstr "Diterbitkan Terbaru"
+
+#: String 484
+msgid "Email Configuration updated"
+msgstr "Konfigurasi Email diperbarui"
+
+#: String 485
+msgid "General Configuration updated"
+msgstr "Konfigurasi Umum diperbarui"
+
+#: String 486
+msgid "Payments"
+msgstr "Pembayaran"
+
+#: String 487
+msgid "Widget parameter missing"
+msgstr "Parameter Widget hilang"
+
+#: String 488
+msgid "Saved"
+msgstr "Disimpan"
+
+#: String 489
+msgid "Password is changed"
+msgstr "Password berubah"
+
+#: String 490
+msgid "Nothing is provided"
+msgstr "Tidak disediakan"
+
+#: String 491
+msgid "Passwords do not match"
+msgstr "Sandi tidak cocok"
+
+#: String 492
+msgid "New password is invalid, or they do not match! Please try again."
+msgstr "New password tidak valid, atau mereka tidak cocok! Silakan coba lagi."
+
+#: String 493
+msgid "You have successfuly changed your data"
+msgstr "Anda telah successfuly berubah data Anda"
+
+#: String 494
+msgid "My Advertisement page "
+msgstr "Halaman Iklan saya"
+
+#: String 495
+msgid "This is not your advertisement."
+msgstr "Ini bukan iklan Anda."
+
+#: String 496
+msgid "Advertisement is deactivated"
+msgstr "Iklan dinonaktifkan"
+
+#: String 497
+msgid "Advertisement is active and published"
+msgstr "Iklan aktif dan diterbitkan"
+
+#: String 498
+msgid "Edit advertisement"
+msgstr "Mengedit iklan"
+
+#: String 499
+msgid "Advertisement is updated!"
+msgstr "Iklan diperbarui!"
+
+#: String 500
+msgid "Advertisement is updated"
+msgstr "Iklan diperbarui"
+
+#: String 501
+msgid "You dont have permission to access this link"
+msgstr "Anda tidak memiliki izin untuk mengakses link ini"
+
+#: String 502
+msgid "List"
+msgstr "Daftar"
+
+#: String 503
+msgid "Edit Translation"
+msgstr "Edit Penerjemahan"
+
+#: String 504
+msgid "Language saved"
+msgstr "Bahasa disimpan"
+
+#: String 505
+msgid "Error on mail delivery, not sent"
+msgstr "Kesalahan pada pengiriman surat, tidak dikirim"
+
+#: String 506
+msgid "Email sent to all the users"
+msgstr "Email dikirim ke semua pengguna"
+
+#: String 507
+msgid "Mail not sent"
+msgstr "Mail tidak terkirim"
+
+#: String 508
+msgid "Theme configuration updated"
+msgstr "Konfigurasi theme diperbarui"
+
+#: String 509
+msgid "Appearance configuration updated"
+msgstr "Konfigurasi Penampilan diperbarui"
+
+#: String 510
+msgid "Mobile Theme updated"
+msgstr "Mobile Theme diperbarui"
+
+#: String 511
+msgid "Optimize DB"
+msgstr "Optimalkan DB"
+
+#: String 512
+msgid "Database Optimized"
+msgstr "Basis Data Optimized"
+
+#: String 513
+msgid "All cache deleted"
+msgstr "Semua cache yang dihapus"
+
+#: String 514
+msgid "Deleted expired cache"
+msgstr "Dihapus cache yang kadaluarsa"
+
+#: String 515
+msgid "You are not using latest version of OC, please update."
+msgstr "Anda tidak menggunakan versi terbaru dari OC, silahkan update."
+
+#: String 516
+msgid "System logs"
+msgstr "Sistem log"
+
+#: String 517
+msgid "Sitemap Configuration updated"
+msgstr "Sitemap Konfigurasi diperbarui"
+
+#: String 518
+msgid "Open Classifieds migration"
+msgstr "Buka Rahasia migrasi"
+
+#: String 519
+msgid "Database cleaned"
+msgstr "Database dibersihkan"
+
+#: String 520
+msgid "Review database connection parameters"
+msgstr "Ulasan parameter koneksi database"
+
+#: String 521
+msgid "Wrong email or password"
+msgstr "Email atau password salah"
+
+#: String 522
+msgid "Email to recover password sent"
+msgstr "Email untuk memulihkan password yang dikirim"
+
+#: String 523
+msgid "User not in database"
+msgstr "Pengguna belum dalam database"
+
+#: String 524
+msgid "Email required"
+msgstr "Email diperlukan"
+
+#: String 525
+msgid "User already exists"
+msgstr "Pengguna sudah ada"
+
+#: String 526
+msgid "Welcome!"
+msgstr "Selamat Datang!"
+
+#: String 527
+msgid "Register new user"
+msgstr "Daftar pengguna baru"
+
+#: String 528
+msgid "You do not have any published Advertisement"
+msgstr "Anda tidak memiliki Iklan yang diterbitkan"
+
+#: String 529
+msgid "You do not have any advertisements waiting to be published"
+msgstr "Anda tidak memiliki iklan yang menunggu untuk diterbitkan"
+
+#: String 530
+msgid "Warning, something went wrong while deleting"
+msgstr "Peringatan, ada yang tidak beres saat menghapus"
+
+#: String 531
+msgid "Advertisement is deleted"
+msgstr "Iklan dihapus"
+
+#: String 532
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "Peringatan, Iklan sudah ditandai sebagai spam"
+
+#: String 533
+msgid "Advertisement is marked as spam"
+msgstr "Iklan ditandai sebagai spam"
+
+#: String 534
+msgid "Advertisement is featured"
+msgstr "Iklan adalah fitur"
+
+#: String 535
+msgid "Location deleted"
+msgstr "Lokasi dihapus"
+
+#: String 536
+msgid "Location not deleted"
+msgstr "Lokasi tidak dihapus"
+
+#: String 537
+msgid "Category deleted"
+msgstr "Kategori dihapus"
+
+#: String 538
+msgid "Category not deleted"
+msgstr "Kategori tidak dihapus"
+
+#: String 539
+msgid "Your message has been sent"
+msgstr "Pesan Anda telah terkirim"
+
+#: String 540
+msgid "Message not sent"
+msgstr "Pesan tidak terkirim"
+
+#: String 541
+msgid "Check the form for errors"
+msgstr "Periksa bentuk kesalahan"
+
+#: String 542
+msgid "You made some mistake"
+msgstr "Anda membuat beberapa kesalahan"
+
+#: String 543
+msgid "Advertisement to top"
+msgstr "Iklan ke atas"
+
+#: String 544
+msgid "Advertisement to featured"
+msgstr "Iklan untuk fitur"
+
+#: String 545
+msgid " category"
+msgstr "kategori"
+
+#: String 546
+msgid "Order could not be loaded"
+msgstr "Agar tidak bisa dimuat"
+
+#: String 547
+msgid "Page "
+msgstr "Halaman"
+
+#: String 548
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "Iklan Anda berhasil diaktifkan! Terima kasih!"
+
+#: String 549
+msgid "We did not find any advertisements for your search."
+msgstr "Kami tidak menemukan iklan yang Anda cari."
+
+#: String 550
+msgid "No sitemap generated"
+msgstr "Tidak ada sitemap dihasilkan"
+
+#: String 551
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Anda berada dalam mode pemeliharaan, hanya Anda yang dapat melihat website"
+
+#: String 552
+msgid "Item created"
+msgstr "Item yang dibuat"
+
+#: String 553
+msgid "Check form for errors"
+msgstr "Periksa bentuk kesalahan"
+
+#: String 554
+msgid "Item updated"
+msgstr "Item diperbarui"
+
+#: String 555
+msgid "Access not allowed"
+msgstr "Access tidak diperbolehkan"
+
+#: String 556
+msgid "Some errors in the form"
+msgstr "Beberapa kesalahan dalam bentuk"
+

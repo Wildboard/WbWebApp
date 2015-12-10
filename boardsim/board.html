@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js">
+</script>
+
+<script src="http://ads.wildboard.net:8888/socket.io/socket.io.js"> 
+
+</script>  
+
+<script>
+
+var SAMPLE_FLYER_JSON = '  {    "category": [     "events"    ],    "bodyArea": {     "description": "THIS IS A DIFFERENT AD"    },    "sticky": 0,    "contactArea": [     {      "text": "",      "img": "http://ads.wildboard.net/qrs/323/323_website.png"     },     {      "text": "",      "img": "http://ads.wildboard.net/qrs/323/323_contact.png"     }    ],    "titleArea": {     "posted": "Wed, 14 May 2014 17:06:49 -0700",     "subtitle": [      "0.000",      "Belmont Lubrary"     ],     "sort_date": "2014-05-15",     "title": "HELLO WORLD"    },    "id": "323",    "mediaArea": [     "http://localhost/images/teen-group_1.jpg"    ]   } ';
+
+function allowDrop(ev)
+{
+ev.preventDefault();
+}
+
+function drag(ev)
+{
+   var dragEltId = ev.currentTarget.id;
+   
+
+   if (!dragEltId) {
+      return;
+   }
+   ev.dataTransfer.setData("Text",dragEltId);
+}
+
+var dragToColor = null;
+
+function drop(ev)
+{
+  ev.preventDefault();
+   var id=ev.dataTransfer.getData("Text");
+   var html =  $('#'+id).html();
+   alert("Dragged " + id);
+   alert(html);
+   socket.emit('boardFlyerDragged',
+               { 
+                 color  : dragToColor,
+                 flyerId : id,
+                 flyerHtml : html,
+                 flyerJson : SAMPLE_FLYER_JSON
+               });
+
+//  alert($('#'+id)[0]);
+  ev.target.appendChild($('#'+id)[0]);
+}
+
+  var socket = io.connect('http://ads.wildboard.net:8888');
+  
+  function onDisconnect() {
+  socket = io.connect('http://ads.wildboard.net:8888');
+  bindListeners(socket);
+  }
+  
+  function onConnect() {
+     socket.emit('boardHi', { boardName : 'Kaffeehaus' });
+  }
+    
+    function onHeadsUp(data) {
+      dragToColor = data.color;
+      var style = "width:350px;height:70px;padding:10px;border:1px solid #aaaaaa;";
+      style += "background-color: " + dragToColor + ";";
+      $('#dragTo').html('<div id="' + 
+                         dragToColor + 
+			 '" ondrop="drop(event)" ' +
+			 'ondragover="allowDrop(event)" ' +
+                         ' style="' + 
+                         style + '"></div>');
+      
+    }
+    
+    function bindListeners(socket) {
+    socket.on('connect', onConnect);
+    socket.on('disconnect', onDisconnect);
+    socket.on('toBoardHeadsUp', onHeadsUp);
+    }
+
+    bindListeners(socket);
+</script>
+
+</head>
+<body>
+<div id="dragTo">
+AAAAAAAAAAAAAAAAAAA
+</div>
+<div id="Board">
+
+<div id="flyer1" draggable="true" ondragstart="drag(event)">
+<img width="120" height="160"
+src="http://ads.wildboard.net/images/2014/04/11/276/teen-group_1.jpg"></div>
+</div>
+
+<div id="flyer2" draggable="true" ondragstart="drag(event)">
+<img width="120" height="160"
+src="http://ads.wildboard.net/images/2014/04/11/276/teen-group_1.jpg"></div>
+</div>
+
+</div>
+</body>
+</html>

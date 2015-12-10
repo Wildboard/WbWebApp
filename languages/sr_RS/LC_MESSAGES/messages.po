@@ -1,0 +1,2228 @@
+#: String 0
+msgid "Listing"
+msgstr "Spisak"
+
+#: String 1
+msgid "Categories"
+msgstr "Kategorije"
+
+#: String 2
+msgid "Search"
+msgstr "Pretrazi"
+
+#: String 3
+msgid "Publish new "
+msgstr "Objavi novi"
+
+#: String 4
+msgid "Login"
+msgstr "Prijava"
+
+#: String 5
+msgid "Forgot password"
+msgstr "Zaboravili ste lozinku"
+
+#: String 6
+msgid "Register"
+msgstr "Registruj se"
+
+#: String 7
+msgid "Change the admin color theme"
+msgstr "Promeni boju admin teme"
+
+#: String 8
+msgid "Mobile Version"
+msgstr "Mobilna verzija"
+
+#: String 9
+msgid "Publish new"
+msgstr "Objavi novi"
+
+#: String 10
+msgid "Map"
+msgstr "Mapa"
+
+#: String 11
+msgid "Contact"
+msgstr "Kontakt"
+
+#: String 12
+msgid "Latest Ads"
+msgstr "Najnoviji oglasi"
+
+#: String 13
+msgid "New Advertisement"
+msgstr "Nova reklama"
+
+#: String 14
+msgid "Publish new advertisement"
+msgstr "Objavite novu reklamu"
+
+#: String 15
+msgid "Featured"
+msgstr "Istakni"
+
+#: String 16
+msgid "Publish Date"
+msgstr "Datum objavljuvanja"
+
+#: String 17
+msgid "Price"
+msgstr "Cena"
+
+#: String 18
+msgid "Read more"
+msgstr "Procitaj vise"
+
+#: String 19
+msgid "Edit"
+msgstr "Izmeni"
+
+#: String 20
+msgid "Deactivate?"
+msgstr "Deaktivacija?"
+
+#: String 21
+msgid "Deactivate"
+msgstr "Deaktiviranje"
+
+#: String 22
+msgid "Spam?"
+msgstr "Spam?"
+
+#: String 23
+msgid "Spam"
+msgstr "Spam"
+
+#: String 24
+msgid "Delete?"
+msgstr "Brisanje?"
+
+#: String 25
+msgid "Delete"
+msgstr "Brishi"
+
+#: String 26
+msgid "We do not have any advertisements in this category"
+msgstr "Nemamo rekalme u ovoj kategoriji"
+
+#: String 27
+msgid "Hits"
+msgstr "Broj pregleda"
+
+#: String 28
+msgid "Send Message"
+msgstr "Posalju poruku"
+
+#: String 29
+msgid "Name"
+msgstr "Ime"
+
+#: String 30
+msgid "Email"
+msgstr "E-mail"
+
+#: String 31
+msgid "Subject"
+msgstr "Tema"
+
+#: String 32
+msgid "Message"
+msgstr "Poruka"
+
+#: String 33
+msgid "Captcha"
+msgstr "Captcha"
+
+#: String 34
+msgid "Number of latest ads to display in the home page"
+msgstr "Broj najnovijih oglasa prikazanih na naslovnoj strani"
+
+#: String 35
+msgid "Change the color scheme and style of the theme"
+msgstr "Promeni boju sheme i stil theme "
+
+#: String 36
+msgid "Header banner, allows HTML"
+msgstr "U Header baneru, dozvoli HTML"
+
+#: String 37
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Molimo vas da sacekate dok vas prebacujemo ka PeyPalu"
+
+#: String 38
+msgid "Click here if you are not redirected"
+msgstr "Kliknite ovde ako niste redirektovani na vreme"
+
+#: String 39
+msgid "First"
+msgstr "Prva"
+
+#: String 40
+msgid "Previous"
+msgstr "Predhodna"
+
+#: String 41
+msgid "Page"
+msgstr "Strana"
+
+#: String 42
+msgid "Next"
+msgstr "Sledeca"
+
+#: String 43
+msgid "Last"
+msgstr "Poslednja"
+
+#: String 44
+msgid "Edit Profile"
+msgstr "Prepravka profila"
+
+#: String 45
+msgid "Change password"
+msgstr "Promenite lozinku"
+
+#: String 46
+msgid "Old password"
+msgstr "Stara lozinka"
+
+#: String 47
+msgid "Password"
+msgstr "Lozinka"
+
+#: String 48
+msgid "New password"
+msgstr "Nova lozinka"
+
+#: String 49
+msgid "Repeat password"
+msgstr "Ponovite lozinku"
+
+#: String 50
+msgid "Type your password twice to change"
+msgstr "Upisite vasu lozinku dva puta"
+
+#: String 51
+msgid "Cancel"
+msgstr "Izadji"
+
+#: String 52
+msgid "Send"
+msgstr "Posalji"
+
+#: String 53
+msgid "My Advertisements"
+msgstr "Moji Oglasi"
+
+#: String 54
+msgid " New"
+msgstr "Novi"
+
+#: String 55
+msgid "Category"
+msgstr "Kategorija"
+
+#: String 56
+msgid "Location"
+msgstr "Lokacija"
+
+#: String 57
+msgid "Status"
+msgstr "Status"
+
+#: String 58
+msgid "Date"
+msgstr "Datum"
+
+#: String 59
+msgid "Not published"
+msgstr "Nije objavljen"
+
+#: String 60
+msgid "Published"
+msgstr "Objavljen"
+
+#: String 61
+msgid "Unavailable"
+msgstr "Nedostupno"
+
+#: String 62
+msgid "Update"
+msgstr "Azuriranje"
+
+#: String 63
+msgid "Activate?"
+msgstr "Aktivacija?"
+
+#: String 64
+msgid "Activate"
+msgstr "Aktiviraj"
+
+#: String 65
+msgid "Refresh listing, go to top?"
+msgstr "Osvezite spisak, i idite na vrh strane?"
+
+#: String 66
+msgid "Go to top"
+msgstr "Idite na vrh strane"
+
+#: String 67
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Da li ste sigurni da zelite da osvezite spisak i odete na vrh strane?"
+
+#: String 68
+msgid "Make featured?"
+msgstr "Postani istaknut?"
+
+#: String 69
+msgid "Are you sure you want to make it featured?"
+msgstr "Da li ste sigurni da zelite da istaknete?"
+
+#: String 70
+msgid "Deactivate featured?"
+msgstr "Deaktivacija istaknutosti?"
+
+#: String 71
+msgid "Deactivate featured"
+msgstr "Deaktiviraj te istaknutost"
+
+#: String 72
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Da li ste sigurni da zelite da deaktivirate istaknut oglas?"
+
+#: String 73
+msgid "Statistics"
+msgstr "Statistika"
+
+#: String 74
+msgid "Today"
+msgstr "Danas"
+
+#: String 75
+msgid "Yesterday"
+msgstr "Juce"
+
+#: String 76
+msgid "Last 30 days"
+msgstr "Poslednjih 30 dana"
+
+#: String 77
+msgid "Total"
+msgstr "Ukupno"
+
+#: String 78
+msgid "Contacts"
+msgstr "Kontakti"
+
+#: String 79
+msgid "Visits"
+msgstr "Posete"
+
+#: String 80
+msgid "Charts"
+msgstr "Grafikoni"
+
+#: String 81
+msgid "From"
+msgstr "Iz"
+
+#: String 82
+msgid "To"
+msgstr "Do"
+
+#: String 83
+msgid "Filter"
+msgstr "Filter"
+
+#: String 84
+msgid "Views and Contacts statistic"
+msgstr "Statistika Pregleda i Contacta "
+
+#: String 85
+msgid "Edit Advertisement"
+msgstr "Izmeni Oglas"
+
+#: String 86
+msgid "Id_User"
+msgstr "id_Korisnik"
+
+#: String 87
+msgid "Profile"
+msgstr "Profil"
+
+#: String 88
+msgid "Unpublished"
+msgstr "Neobjavljen"
+
+#: String 89
+msgid "spam"
+msgstr "Spam"
+
+#: String 90
+msgid "Title"
+msgstr "Naslov"
+
+#: String 91
+msgid "Description"
+msgstr "Opis"
+
+#: String 92
+msgid "Delete image"
+msgstr "Obrisi sliku"
+
+#: String 93
+msgid "Images"
+msgstr "Slike"
+
+#: String 94
+msgid "Phone"
+msgstr "Telefon"
+
+#: String 95
+msgid "Address"
+msgstr "Adresa"
+
+#: String 96
+msgid "Website"
+msgstr "Website"
+
+#: String 97
+msgid "Panel"
+msgstr "Panel"
+
+#: String 98
+msgid "Market"
+msgstr "Prodavnica"
+
+#: String 99
+msgid "Moderation"
+msgstr "Odrzavanje"
+
+#: String 100
+msgid "Stats"
+msgstr "Statistika"
+
+#: String 101
+msgid "Widgets"
+msgstr "Dodaci"
+
+#: String 102
+msgid "New"
+msgstr "Novi"
+
+#: String 103
+msgid "Welcome"
+msgstr "Dobrodosao"
+
+#: String 104
+msgid "Thanks for using our website."
+msgstr "Hvala sto koristite nas sajt"
+
+#: String 105
+msgid "Advertisements"
+msgstr "Oglasi"
+
+#: String 106
+msgid "Locations"
+msgstr "Lokacije"
+
+#: String 107
+msgid "Orders"
+msgstr "Porudzbine"
+
+#: String 108
+msgid "Content"
+msgstr "Sadrzaj"
+
+#: String 109
+msgid "Translations"
+msgstr "Prevodi"
+
+#: String 110
+msgid "Newsletters"
+msgstr "Newsletters"
+
+#: String 111
+msgid "Themes"
+msgstr "Teme"
+
+#: String 112
+msgid "Theme Options"
+msgstr "Opcije teme"
+
+#: String 113
+msgid "Settings"
+msgstr "Podeshavanja"
+
+#: String 114
+msgid "General"
+msgstr "Opsta"
+
+#: String 115
+msgid "Payment"
+msgstr "Placanje"
+
+#: String 116
+msgid "Advertisement"
+msgstr "Oglas"
+
+#: String 117
+msgid "Users"
+msgstr "Korisnici"
+
+#: String 118
+msgid "User Roles"
+msgstr "Uloge korisnika"
+
+#: String 119
+msgid "Roles access"
+msgstr "Pristupacnost uloge"
+
+#: String 120
+msgid "Tools"
+msgstr "Alatke"
+
+#: String 121
+msgid "Updates"
+msgstr "Ispravke"
+
+#: String 122
+msgid "Sitemap"
+msgstr "Mapa"
+
+#: String 123
+msgid "Migration"
+msgstr "Migracija"
+
+#: String 124
+msgid "Optimize"
+msgstr "Optimizuj"
+
+#: String 125
+msgid "Cache"
+msgstr "Cache"
+
+#: String 126
+msgid "Logs"
+msgstr "Logs"
+
+#: String 127
+msgid "PHP Info"
+msgstr "Php info"
+
+#: String 128
+msgid "Edit profile"
+msgstr "Izmena profila"
+
+#: String 129
+msgid "Public profile"
+msgstr "Javni profil"
+
+#: String 130
+msgid "Home"
+msgstr "Pocetna"
+
+#: String 131
+msgid "Actions"
+msgstr "Akcije"
+
+#: String 132
+msgid "Are you sure you want to delete?"
+msgstr "Da li ste sigurni da zelite da izbrisete?"
+
+#: String 133
+msgid "Logout"
+msgstr "Odjava"
+
+#: String 134
+msgid "Visit Site"
+msgstr "Посетите сајт"
+
+#: String 135
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Ovde su navedene konkretne konfiguraciije teme. Zameni podatke u poljima, sa novim zeljenim podacima."
+
+#: String 136
+msgid "Using mobile theme"
+msgstr "Koristite mobilnu temu"
+
+#: String 137
+msgid "Disable"
+msgstr "Onesposobi"
+
+#: String 138
+msgid "Options"
+msgstr "Opcije"
+
+#: String 139
+msgid "You can change the look and feel of your website here."
+msgstr "Ovde mozete da promente izgled vaseg sajta."
+
+#: String 140
+msgid "Current Theme"
+msgstr "Trenutna tema"
+
+#: String 141
+msgid "Available Themes"
+msgstr "Dostupne teme"
+
+#: String 142
+msgid "Preview"
+msgstr "Pregled"
+
+#: String 143
+msgid "Available Mobile Themes"
+msgstr "Dostupne Mobilne Teme"
+
+#: String 144
+msgid "Themes Market"
+msgstr "Teme u prodavnici"
+
+#: String 145
+msgid "Here you can find a selection of our premium themes."
+msgstr "Ovde mozete pronaci listu premium tema"
+
+#: String 146
+msgid "All themes include support, updates and 1 site license."
+msgstr "Sve teme uknjucuju podrsku, azuriranje i jednu sajt licencu"
+
+#: String 147
+msgid "Site Usage Statistics"
+msgstr "Statistika Upotrebe Sajta"
+
+#: String 148
+msgid "Ads"
+msgstr "Oglasi"
+
+#: String 149
+msgid "Sales"
+msgstr "Prodaja"
+
+#: String 150
+msgid "Views and Ads statistics"
+msgstr "Statistika Pregleda i Oglasa"
+
+#: String 151
+msgid "Sales statistics"
+msgstr "Statistika prodaje"
+
+#: String 152
+msgid "Available widgets"
+msgstr "Dostupni podaci"
+
+#: String 153
+msgid "Create"
+msgstr "Napravi"
+
+#: String 154
+msgid "Where do you want the widget displayed?"
+msgstr "Gde zelite ovaj dodatak da prikazete?"
+
+#: String 155
+msgid "Close"
+msgstr "Zatvori"
+
+#: String 156
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "Da li ste sigurni da zelite da obrisete ovaj dodatak? Mozete ga prebaciti u neaktivan blok"
+
+#: String 157
+msgid "Save changes"
+msgstr "Sacuvaj promene"
+
+#: String 158
+msgid "Limited Offer!"
+msgstr "Ogranicena ponuda!"
+
+#: String 159
+msgid "Valid Until"
+msgstr "Vazi do"
+
+#: String 160
+msgid "Buy Now"
+msgstr "Kupi"
+
+#: String 161
+msgid "More info"
+msgstr "Vise informacija"
+
+#: String 162
+msgid "Selection of nice extras for your installation."
+msgstr "Izbor dobrih dodataka za vasu instalaciju."
+
+#: String 163
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Promeni redolsed vasih kategorija. Drzite na umu da vise od 2 nivoa dubine se nece prikazati u temi (nije preporucljivo)."
+
+#: String 164
+msgid "New category"
+msgstr "Nova kategorija"
+
+#: String 165
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "Da li ste sigurni da zelite da izbrisete? Mi cemo premestiti bracu ove kategorije i oglase u categoriju oca."
+
+#: String 166
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Promeni redolsed vasih lokacija. Drzite na umu da vise od 2 nivoa dubine se nece prikazati u temi (nije preporucljivo)."
+
+#: String 167
+msgid "New location"
+msgstr "Nova lokacija"
+
+#: String 168
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Da li ste sigurni da zelite da izbrisete? Mi cemo premestiti bracu ove lokacije i oglase u categoriju oca."
+
+#: String 169
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: String 170
+msgid "Email Settings"
+msgstr "Email podesavanja"
+
+#: String 171
+msgid "You can send a mass email to all active users."
+msgstr "Mozete poslati email svim vasim korisnicima"
+
+#: String 172
+msgid "From Email"
+msgstr "Email od"
+
+#: String 173
+msgid "Optimize Database"
+msgstr "Optimizuj Bazu Podataka"
+
+#: String 174
+msgid "Database space"
+msgstr "Prostor Baze Podataka"
+
+#: String 175
+msgid "Space to optimize"
+msgstr "Prostor za optimizaciju"
+
+#: String 176
+msgid "Table"
+msgstr "Tabela"
+
+#: String 177
+msgid "Rows"
+msgstr "Redovi"
+
+#: String 178
+msgid "Size"
+msgstr "Velicina"
+
+#: String 179
+msgid "Save size"
+msgstr "Sacuvaj velicinu"
+
+#: String 180
+msgid "Cache configuration information"
+msgstr "Cache informacije o konfiguraciji"
+
+#: String 181
+msgid "Delete all"
+msgstr "Obrisi sve"
+
+#: String 182
+msgid "Delete expired"
+msgstr "Bisanje isteklo"
+
+#: String 183
+msgid "Config file"
+msgstr "Config datoteka"
+
+#: String 184
+msgid "System Logs"
+msgstr "Sistem Logs"
+
+#: String 185
+msgid "Reading log file"
+msgstr "Chitanje log datoteke"
+
+#: String 186
+msgid "Log"
+msgstr "Log"
+
+#: String 187
+msgid "Your PHP time limit is"
+msgstr "Vas PHP vreneski limit je"
+
+#: String 188
+msgid "seconds"
+msgstr "sekunde"
+
+#: String 189
+msgid "Host name"
+msgstr "Ime domacina"
+
+#: String 190
+msgid "User name"
+msgstr "Korisnicko ime"
+
+#: String 191
+msgid "Database name"
+msgstr "Ime baze podataka"
+
+#: String 192
+msgid "Database charset"
+msgstr "Charset Baze podataka"
+
+#: String 193
+msgid "Table prefix"
+msgstr "Prefix tabele"
+
+#: String 194
+msgid "Migrate"
+msgstr "Migriraj"
+
+#: String 195
+msgid "Last time generated"
+msgstr "Poslenji put generisan"
+
+#: String 196
+msgid "Generate"
+msgstr "Generishi"
+
+#: String 197
+msgid "Expire time"
+msgstr "Vreme isteka"
+
+#: String 198
+msgid "Update on publish"
+msgstr "Azuriraj na objavljivanje"
+
+#: String 199
+msgid "Save"
+msgstr "Sacuvaj"
+
+#: String 200
+msgid "Versions"
+msgstr "Verzije"
+
+#: String 201
+msgid "Open Classifieds release history information."
+msgstr "Open Classifieds informacije iz istorije"
+
+#: String 202
+msgid "Your installation version is"
+msgstr "Verzija vase instalacije je"
+
+#: String 203
+msgid "Your Hash Key for this installation is"
+msgstr "Vas Hash Key ove instalacije je"
+
+#: String 204
+msgid "Check for updates"
+msgstr "Proverite da li postoje novosti"
+
+#: String 205
+msgid "Version"
+msgstr "Verzija"
+
+#: String 206
+msgid "Information"
+msgstr "Informacije"
+
+#: String 207
+msgid "Latest"
+msgstr "Najnovije"
+
+#: String 208
+msgid "Current"
+msgstr "Trenutno"
+
+#: String 209
+msgid "Email Configuration"
+msgstr "Email konfiguracija"
+
+#: String 210
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "Spisak opstih konfiguracija. Zameni unosne podateke sa zeljenim podacima"
+
+#: String 211
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "Ako zelite da posaljete vise emailova sa vecim prolazom stizanja"
+
+#: String 212
+msgid "Notify email"
+msgstr "Email obavestacha"
+
+#: String 213
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "Email odakle shaljemo mailove, takodje koriscen za softwerske komunikacije."
+
+#: String 214
+msgid "Email From"
+msgstr "Email od"
+
+#: String 215
+msgid "Smtp active"
+msgstr "Smtp aktiviran"
+
+#: String 216
+msgid "Smtp ssl"
+msgstr "Smtp ssl"
+
+#: String 217
+msgid "Smtp host"
+msgstr "Smtp domacin"
+
+#: String 218
+msgid "Smtp port"
+msgstr "Smtp port"
+
+#: String 219
+msgid "Smtp auth"
+msgstr "Smtp auth"
+
+#: String 220
+msgid "Smtp user"
+msgstr "Smtp korisnik"
+
+#: String 221
+msgid "Smtp password"
+msgstr "Smtp lozinka"
+
+#: String 222
+msgid "Advertisement Configuration"
+msgstr "Konfiguracija oglasa"
+
+#: String 223
+msgid "Number of images"
+msgstr "Broj slika"
+
+#: String 224
+msgid "Number of images displayed"
+msgstr "Broj prikazanih slika"
+
+#: String 225
+msgid "Ad expiration date"
+msgstr "Datum isteka oglasa"
+
+#: String 226
+msgid "Expire days"
+msgstr "Broj dana do isteka"
+
+#: String 227
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Posle koliko dana oglas istice. 0 ako ne zelite da istekne."
+
+#: String 228
+msgid "Days"
+msgstr "Dani"
+
+#: String 229
+msgid "Address field"
+msgstr "Polje Adrese"
+
+#: String 230
+msgid "Displays the field Address in the Ad form."
+msgstr "Prikazuje polje adrese u formularu oglasa."
+
+#: String 231
+msgid "Google Maps in Ad"
+msgstr "Google Mape u Oglasu"
+
+#: String 232
+msgid "Displays the google maps in the Ad."
+msgstr "Prikazi Google mapu u oglasu."
+
+#: String 233
+msgid "Phone field"
+msgstr "Polje Telefon"
+
+#: String 234
+msgid "Displays the field Phone in the Ad form."
+msgstr "Prikazuje polje Telefon u formularu oglasa."
+
+#: String 235
+msgid "Website field"
+msgstr "Polje Sajt"
+
+#: String 236
+msgid "Displays the field Website in the Ad form."
+msgstr "Prikazuje polje sajt u formularu oglasa."
+
+#: String 237
+msgid "Displays location select"
+msgstr "Prikazi polje lokacije"
+
+#: String 238
+msgid "Displays the Select Location in the Ad form."
+msgstr "Prikazi Selekciju Lokacija u formularu oglasa."
+
+#: String 239
+msgid "Price field"
+msgstr "Polje Cene"
+
+#: String 240
+msgid "Displays the field Price in the Ad form."
+msgstr "Prikazuje polje cnene u formularu oglasa."
+
+#: String 241
+msgid "Upload file"
+msgstr "Posalji datoteku"
+
+#: String 242
+msgid "Enables Captcha"
+msgstr "Aktiviraj Captha"
+
+#: String 243
+msgid "Captcha appears in the form."
+msgstr "Chaptcha je prikazana u formularu."
+
+#: String 244
+msgid "Deactivated"
+msgstr "Deaktiviran"
+
+#: String 245
+msgid "Terms of Service"
+msgstr "Uslovi koriscenja"
+
+#: String 246
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 247
+msgid "Disqus Comments"
+msgstr "Disqus Comentari"
+
+#: String 248
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Potrebno je da napisete vas disqus ID da biste omogucili ovaj servis."
+
+#: String 249
+msgid "Payments Configuration"
+msgstr "Konfiguracija Placanja"
+
+#: String 250
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Lista konfiguracionih vrednosti za placanje. Zameni unos u poljima sa zeljenim informacijam."
+
+#: String 251
+msgid "Paypal account"
+msgstr "Paypal racun"
+
+#: String 252
+msgid "Paypal mail address"
+msgstr "Paypal mail adresa"
+
+#: String 253
+msgid "The paypal email address where the payments will be sent"
+msgstr "Paypal email adresa gde ce isplate biti poslate"
+
+#: String 254
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 255
+msgid "Paypal currency"
+msgstr "Paypal valuta"
+
+#: String 256
+msgid "Currency"
+msgstr "Valuta"
+
+#: String 257
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Da li ste sigurni da koristite valutu koju Paypal podrzava."
+
+#: String 258
+msgid "Featured Ads"
+msgstr "Istaknuti Oglasi"
+
+#: String 259
+msgid "Featured ads"
+msgstr "Istaknuti oglasi"
+
+#: String 260
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Istaknuti oglasi bice vidljivo istaknuti u odredjenom vremenskom periodu ."
+
+#: String 261
+msgid "Price for featuring the Ad"
+msgstr "Cena za isticanje Oglasa"
+
+#: String 262
+msgid "Pricing"
+msgstr "Cenovnik"
+
+#: String 263
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Cena isticanja oglasa, koju korisnik treba da plati "
+
+#: String 264
+msgid "Days Featured"
+msgstr "Dana istaknut"
+
+#: String 265
+msgid "Featured length"
+msgstr "Duzina istaknutosti"
+
+#: String 266
+msgid "How many days an ad will be featured after paying."
+msgstr "Broj dana istaknutosti oglasa"
+
+#: String 267
+msgid "Bring to top Ad"
+msgstr "Postavi oglas na vrh"
+
+#: String 268
+msgid "Brings your Ad to the top of the listing."
+msgstr "Postavlja vas oglas na vrh liste"
+
+#: String 269
+msgid "To top price"
+msgstr "Na vrh cena"
+
+#: String 270
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Cena postavljanja oglasa na vrh "
+
+#: String 271
+msgid "General Configuration"
+msgstr "Opste Konfiguracije"
+
+#: String 272
+msgid "General site settings."
+msgstr "Opste podesavanje sajta"
+
+#: String 273
+msgid "All configurations"
+msgstr "Sve konfiguracije"
+
+#: String 274
+msgid "Maintenance Mode"
+msgstr "Mode Odrzavanje"
+
+#: String 275
+msgid "Enables the site to maintenance"
+msgstr "Odrzavanje je omoguceno"
+
+#: String 276
+msgid "Site name"
+msgstr "Ime sajta"
+
+#: String 277
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Ovde mozete deklarisati ime prikazivanja. Ovo mogu svi vide!"
+
+#: String 278
+msgid "Site Name"
+msgstr "Ime sajta"
+
+#: String 279
+msgid "Site description"
+msgstr "Opis sajta"
+
+#: String 280
+msgid "Base URL"
+msgstr "Osnovni URL"
+
+#: String 281
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "Ovo je bazna putanja vaseg sajta (e.g. http://open-classifieds.com/). Sve ostalo se nadogradjuje na ovo polje."
+
+#: String 282
+msgid "Base URL path"
+msgstr "Putanja Osnovnog URL-a"
+
+#: String 283
+msgid "Moderation controls"
+msgstr "Moderacijske kontrole"
+
+#: String 284
+msgid "Global currency"
+msgstr "Globalna valuta"
+
+#: String 285
+msgid "Global currency is country specific. There are no restrictions, this is only to declare currency for advertisements. Note: This is different from payment currencies. "
+msgstr "Globalna valuta je vezana za drzavu. Ne postoje limiti, ovde se deklarise valuta za oglase. Primeti: Ovo se razlikuje od valute za placanje."
+
+#: String 286
+msgid "Country specific currency"
+msgstr "Valuta specificna za zemlju"
+
+#: String 287
+msgid "Advertisements per page"
+msgstr "Oglasa po stranici"
+
+#: String 288
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Ovde je kontrolisan broj oglasa prikazanih po strani. Unesite ceo broj, kao brojcani limit."
+
+#: String 289
+msgid "Number of ads per page"
+msgstr "Broj oglasa po strani"
+
+#: String 290
+msgid "Advertisements in RSS"
+msgstr "Oglasi u RSS"
+
+#: String 291
+msgid "Number of Ads"
+msgstr "Broj oglasa"
+
+#: String 292
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Koliko ce oglasa da se pojavi u RSS-u vaseg sajta."
+
+#: String 293
+msgid "Advertisements in Map"
+msgstr "Oglasa na Mapi"
+
+#: String 294
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Koliko oglasa se pojavljuje na mapi vaseg sajta."
+
+#: String 295
+msgid "Number format"
+msgstr "Format broja"
+
+#: String 296
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Format broja je kako zelis da prikazes brojeve vezane za oglase. Specificnije cene oglasa. Svaka zemlja ima svoj nacin prikazivanja decimalnih brojeva."
+
+#: String 297
+msgid "Decimal representation"
+msgstr "Decimalna reprezentacija"
+
+#: String 298
+msgid "Date format"
+msgstr "Format vremena"
+
+#: String 299
+msgid "Each advertisement have a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "Svaki oglas im vreme publikacije. Selektovanjem formata, mozete promeniti kako se prikazuje na vasoj veb strani. "
+
+#: String 300
+msgid "Analytics"
+msgstr "Analitika"
+
+#: String 301
+msgid "Allowed image formats"
+msgstr "Dozvoljeni formati slika"
+
+#: String 302
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Podesite ovde da ogranicite formate koji se salje na vas server."
+
+#: String 303
+msgid "Max image size"
+msgstr "Maksimalna velicina slike"
+
+#: String 304
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Kontrolisite velicinu slike slane na server. Unesite ceo broj da podesite velicinu slike u megabajtima(Mb)."
+
+#: String 305
+msgid "Image size in mega bites(Mb)"
+msgstr "Velicna slike u megabajtima(Mb)"
+
+#: String 306
+msgid "Image height"
+msgstr "Visina slike"
+
+#: String 307
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Svaka slika je podesena pri slanju. Ovo je visina velike slike. Primeti: Mozete ostaviti ovo polje prazno da ostavite AUTO podesavanje visine."
+
+#: String 308
+msgid "Image height in pixels(px)"
+msgstr "Visina slike u pikselima(px)"
+
+#: String 309
+msgid "Image width"
+msgstr "Shirina slike"
+
+#: String 310
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Svaka slika je podesena pri slanju. Ovo je shirina velike slike"
+
+#: String 311
+msgid "Image width in pixels(px)"
+msgstr "Shirina slike u pikselima(px)"
+
+#: String 312
+msgid "Thumb height"
+msgstr "Thumb visina"
+
+#: String 313
+msgid "Thumb is a small image resized to fit certain elements. This is height of this image."
+msgstr "Thumb je mala slika podesena da odgovara odredjenim elementima. Ovo je visina ovakve slike."
+
+#: String 314
+msgid "Thumb height in pixels(px)"
+msgstr "Thumb visina u pikselima(px)"
+
+#: String 315
+msgid "Thumb width"
+msgstr "Thumb shirina"
+
+#: String 316
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Thumb je mala slika podesena da odgovara odredjenim elementima. Ovo je shirina ovakve slike."
+
+#: String 317
+msgid "Thumb width in pixels(px)"
+msgstr "Thumb shirina u pikselima(px)"
+
+#: String 318
+msgid "Image quality"
+msgstr "Kvalitet slike"
+
+#: String 319
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Odaberite kvalitet sacuvane slike (1-100% od originala)."
+
+#: String 320
+msgid "Image Quality"
+msgstr "Kvalitet Slike"
+
+#: String 321
+msgid "Here you can modify any text you find in your web."
+msgstr "Ovde mozete podesiti bilo koji text na vasem veb sajtu."
+
+#: String 322
+msgid "Original Translation"
+msgstr "Originalni Prevod"
+
+#: String 323
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Kopirajte sve? Budite oprezni , ovo ce zameniti sve vase textove."
+
+#: String 324
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Prevedi sve? Budite oprezni , ovo ce zameniti sve vase textove."
+
+#: String 325
+msgid "Translation"
+msgstr "Prevod"
+
+#: String 326
+msgid "Translations files available in the system."
+msgstr "Datoteke prevoda dostupni u vasem sistemu."
+
+#: String 327
+msgid "Scan"
+msgstr "Skeniraj"
+
+#: String 328
+msgid "New translation"
+msgstr "Novi prevod"
+
+#: String 329
+msgid "Language"
+msgstr "Jezik"
+
+#: String 330
+msgid "Active"
+msgstr "Aktivno"
+
+#: String 331
+msgid "Spam Sort"
+msgstr "Sortiraj Spam"
+
+#: String 332
+msgid "Unavailable Sort"
+msgstr "Sortiranje Nedostupno"
+
+#: String 333
+msgid " Unavailable"
+msgstr "Nedostupno"
+
+#: String 334
+msgid "General configurations are set. Replace input fields with new desired values."
+msgstr "Opste konfiguracije su postavljene. Zamenite u poljima za unos nove zeljene podatke."
+
+#: String 335
+msgid "Deactivate Featured"
+msgstr "Iskljuci Istaknutost"
+
+#: String 336
+msgid "Thanks for using Open Classifieds."
+msgstr "Hvala sto koristite Open Classifieds."
+
+#: String 337
+msgid "Latest News"
+msgstr "Najnovije Vesti"
+
+#: String 338
+msgid "Contact Us"
+msgstr "Kontakt"
+
+#: String 339
+msgid "User Profile"
+msgstr "Profil Korisnika"
+
+#: String 340
+msgid "Created"
+msgstr "Napravljen"
+
+#: String 341
+msgid "Last Login"
+msgstr "Poslednji put na sajtu"
+
+#: String 342
+msgid " advertisements"
+msgstr "oglasi"
+
+#: String 343
+msgid "Not yet published"
+msgstr "Nije objavljen jos"
+
+#: String 344
+msgid "Remember password"
+msgstr "Zapamti lozinku"
+
+#: String 345
+msgid "Forgot password?"
+msgstr "Zaboravili ste lozinku?"
+
+#: String 346
+msgid "Remember me"
+msgstr "Zapamti me"
+
+#: String 347
+msgid "Type your password twice"
+msgstr "Upisite liznku dva puta"
+
+#: String 348
+msgid "Terms of service"
+msgstr "Uslovi koriscenja"
+
+#: String 349
+msgid "User account will be created"
+msgstr "Korisnicki nalog ce biti kreiran"
+
+#: String 350
+msgid "Advanced Search"
+msgstr "Napredna Pretraga"
+
+#: String 351
+msgid "Advertisement Title"
+msgstr "Naslov Oglasa"
+
+#: String 352
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: String 353
+msgid "Download"
+msgstr "Skini"
+
+#: String 354
+msgid "Header tool bar gets fixed in the top"
+msgstr "Header tool bar je fiksiran na vrhu"
+
+#: String 355
+msgid "Yes"
+msgstr "Da"
+
+#: String 356
+msgid "No"
+msgstr "Ne"
+
+#: String 357
+msgid "Display breadcrumb"
+msgstr "Prikazi breadcrumb"
+
+#: String 358
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr "URL vaseg Logoa. Preporucena velicina 250px x 40px. Za ne podeseno ostavite prazno "
+
+#: String 359
+msgid "Short description that appears after the site name."
+msgstr "Kratak opis koji je vidljiv posle imena sijta."
+
+#: String 360
+msgid "Numbers of ads to display in home slider"
+msgstr "Broj oglasa prikazanih u slider-u naslovnice."
+
+#: String 361
+msgid "Where you want the sidebar to appear"
+msgstr "Gde zelite sidebar da se pojavi"
+
+#: String 362
+msgid "Right side"
+msgstr "Desna strana"
+
+#: String 363
+msgid "Left side"
+msgstr "Leva strana"
+
+#: String 364
+msgid "Menu"
+msgstr "Meni"
+
+#: String 365
+msgid "Contact us"
+msgstr "Kontaktirajte nas"
+
+#: String 366
+msgid "Advanced search"
+msgstr "Napredna pretraga"
+
+#: String 367
+msgid "Desktop Version"
+msgstr "Desktop Verzija"
+
+#: String 368
+msgid "Public Profile"
+msgstr "Javni Profil"
+
+#: String 369
+msgid "advertisements"
+msgstr "Oglasi"
+
+#: String 370
+msgid "Change the main color scheme and style of the theme"
+msgstr "Promeni osnovnu boju i stil teme "
+
+#: String 371
+msgid "Change the header color scheme and style of the theme"
+msgstr "Promeni boju sheme u zaglavlju i stil teme"
+
+#: String 372
+msgid "Change the theme of List Elements"
+msgstr "Promeni temu Liste Elemenata"
+
+#: String 373
+msgid "Change the theme of Featured Elements"
+msgstr "Promeni temu Istaknutih Elemenata"
+
+#: String 374
+msgid "Installation"
+msgstr "Instalacija"
+
+#: String 375
+msgid "Requirements"
+msgstr "Zahtevi"
+
+#: String 376
+msgid "Congratulations"
+msgstr "Chestitamo"
+
+#: String 377
+msgid "Installation done"
+msgstr "Instalacija zavrsena"
+
+#: String 378
+msgid "Please now erase the folder"
+msgstr "Molimo vas da sada obrisete fasciklu"
+
+#: String 379
+msgid "Go to Your Website"
+msgstr "Idite na Vas Vebsajt"
+
+#: String 380
+msgid "Make a donation"
+msgstr "Donirajte"
+
+#: String 381
+msgid "We really appreciate it"
+msgstr "Mi stvarno cenimo to"
+
+#: String 382
+msgid "Welcome to"
+msgstr "Dobrodosli na"
+
+#: String 383
+msgid "installation"
+msgstr "instalacija"
+
+#: String 384
+msgid "Welcome to the super easy and fast installation"
+msgstr "Dobrodosli na super laku i brzu instalaciju"
+
+#: String 385
+msgid "If you need any help please check our professional services"
+msgstr "Ako vam je potrebna dodatna pomoc pogledajte nase profesionalne usluge koje pruzamo"
+
+#: String 386
+msgid "Site Configuration"
+msgstr "Konfiguracija Sajta"
+
+#: String 387
+msgid "Site Language"
+msgstr "Jezik Sajta"
+
+#: String 388
+msgid "Site URL"
+msgstr "URL Sajta"
+
+#: String 389
+msgid "Time Zone"
+msgstr "Vremenska zona"
+
+#: String 390
+msgid "New Install"
+msgstr "Nova Instalacija"
+
+#: String 391
+msgid "Upgrade System"
+msgstr "Unapredi Sistem"
+
+#: String 392
+msgid "Administrator email"
+msgstr "E-mail Administratora"
+
+#: String 393
+msgid "Admin Password"
+msgstr "Admin Lozinka"
+
+#: String 394
+msgid "Sample data"
+msgstr "Primeri podataka"
+
+#: String 395
+msgid "Creates few sample categories to start with"
+msgstr "Stvara nekoliko categorija za primer, za pocetak"
+
+#: String 396
+msgid "Hash Key"
+msgstr "Hash Kljuch"
+
+#: String 397
+msgid "You need the Hash Key to re-install. You can find this value if you lost it at"
+msgstr "Hash Kljuch je potreban za ponovno instaliranje. Ukoliko ga zagubite, mozete ga pronaci na "
+
+#: String 398
+msgid "Database Configuration"
+msgstr "Konfiguracija Baze podataka"
+
+#: String 399
+msgid "Allows multiple installations in one database if you give each one a unique prefix"
+msgstr "Omogucava vishestruke instalacije na jednoj Bazi podataka ukoliko svaka ima jedinstven prefix."
+
+#: String 400
+msgid "Only numbers, letters, and underscores"
+msgstr "Samo brojevi, slova, i donje crte"
+
+#: String 401
+msgid "Install"
+msgstr "Instaliraj"
+
+#: String 402
+msgid "Ocacu classifieds community registration"
+msgstr "Ocacu classifieds registracija"
+
+#: String 403
+msgid "Terms"
+msgstr "Uslovi"
+
+#: String 404
+msgid "Cannot connect to server"
+msgstr "Ne moguce povezivanje sa serverom"
+
+#: String 405
+msgid "No database name was given"
+msgstr "Nije dato ime bazi podataka"
+
+#: String 406
+msgid "Available databases"
+msgstr "Raspolozive baze podataka"
+
+#: String 407
+msgid "Invalid query"
+msgstr "Nevazeci query"
+
+#: String 408
+msgid "Benchmark"
+msgstr "Benchmark"
+
+#: String 409
+msgid "Application Execution"
+msgstr "Izvrsavanje aplikacije"
+
+#: String 410
+msgid "Hello, world"
+msgstr "Zdravo, svete"
+
+#: String 411
+msgid "Environment"
+msgstr "Okolina"
+
+#: String 412
+msgid "Included files"
+msgstr "Ukljuceni podaci"
+
+#: String 413
+msgid "Loaded extensions"
+msgstr "Ucitane nadogradnje"
+
+#: String 414
+msgid "publish new"
+msgstr "objavi nov"
+
+#: String 415
+msgid "search"
+msgstr "pretraga"
+
+#: String 416
+msgid "contact"
+msgstr "kontakt"
+
+#: String 417
+msgid "map"
+msgstr "mapa"
+
+#: String 418
+msgid "maintenance"
+msgstr "odrzavanje"
+
+#: String 419
+msgid "views"
+msgstr "pregledi"
+
+#: String 420
+msgid "ads"
+msgstr "oglasi"
+
+#: String 421
+msgid "users"
+msgstr "korisnici"
+
+#: String 422
+msgid "# items to display"
+msgstr "# artikli za prikaz "
+
+#: String 423
+msgid "RSS"
+msgstr "RSS"
+
+#: String 424
+msgid "RSS reader with cache"
+msgstr "RSS chitach sa kesh-om"
+
+#: String 425
+msgid "Number items to display"
+msgstr "Broj artikala za prikaz"
+
+#: String 426
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Koliko cesto osvezavamo RSS, u sekundima"
+
+#: String 427
+msgid "RSS url address"
+msgstr "RSS url adresa"
+
+#: String 428
+msgid "RSS title displayed"
+msgstr "RSS naslov za prikaz"
+
+#: String 429
+msgid "Share"
+msgstr "Podeli"
+
+#: String 430
+msgid "Share on social networks."
+msgstr "Podeli na drustvenoj mrezi"
+
+#: String 431
+msgid "Title displayed"
+msgstr "Prikazan naslov"
+
+#: String 432
+msgid "Add latest comments"
+msgstr "Dodaj najnovije komentare"
+
+#: String 433
+msgid "Comments"
+msgstr "Komentari"
+
+#: String 434
+msgid "Number of comments to display"
+msgstr "Broj komentara za prikazivanje"
+
+#: String 435
+msgid "Google Maps with ads"
+msgstr "Google mape sa oglasima"
+
+#: String 436
+msgid "Map title displayed"
+msgstr "Naslov mape prikazan"
+
+#: String 437
+msgid "Map height in pixels"
+msgstr "Visina mape u pikselima"
+
+#: String 438
+msgid "Zoom in the map"
+msgstr "Zoom na mapi"
+
+#: String 439
+msgid "Display categories"
+msgstr "Prikazi kategorije"
+
+#: String 440
+msgid "Categories title displayed"
+msgstr "Naslov kategorija prikazan"
+
+#: String 441
+msgid "Display Locations"
+msgstr "Prikaz Lokacija"
+
+#: String 442
+msgid "Locations title displayed"
+msgstr "Naslov lokacija prikazan"
+
+#: String 443
+msgid "Text"
+msgstr "Tekst"
+
+#: String 444
+msgid "HTML textarea"
+msgstr "HTML tekstualni prostor"
+
+#: String 445
+msgid "Text title displayed"
+msgstr "Naslov teksta prikazan"
+
+#: String 446
+msgid "HTML/text content here"
+msgstr "HTML / tekst sadrzaj ovde"
+
+#: String 447
+msgid "Ads reader"
+msgstr "Chitach oglasa"
+
+#: String 448
+msgid "Type ads to display"
+msgstr "Vrsta oglasa za prikaz"
+
+#: String 449
+msgid "Popular Ads last month"
+msgstr "Popularni oglasi proslog meseca"
+
+#: String 450
+msgid "Number of ads to display"
+msgstr "Broj oglasa za prikaz"
+
+#: String 451
+msgid "Ads title displayed"
+msgstr "Naslov oglasa za prikaz"
+
+#: String 452
+msgid "Pages"
+msgstr "Stranice"
+
+#: String 453
+msgid "Display CMS pages"
+msgstr "Prikazi CMS strane"
+
+#: String 454
+msgid "Page title displayed"
+msgstr "Naslov strane za prikaz"
+
+#: String 455
+msgid "Display site stats"
+msgstr "Prikazi statistiku sajta"
+
+#: String 456
+msgid "Submit"
+msgstr "Podnesi"
+
+#: String 457
+msgid "Other"
+msgstr "Drugi"
+
+#: String 458
+msgid "Role"
+msgstr "Uloga"
+
+#: String 459
+msgid "Last modified"
+msgstr "Predhodna modifikacija"
+
+#: String 460
+msgid "Last login"
+msgstr "Predhodno prijavljivanje"
+
+#: String 461
+msgid "User"
+msgstr "Korisnik"
+
+#: String 462
+msgid "Type"
+msgstr "Tip"
+
+#: String 463
+msgid "SEO title"
+msgstr "SEO naslov"
+
+#: String 464
+msgid "Ip address"
+msgstr "Ip adresa"
+
+#: String 465
+msgid "Has images"
+msgstr "Ima slika"
+
+#: String 466
+msgid "Parent"
+msgstr "Roditelj"
+
+#: String 467
+msgid "Parent deep"
+msgstr "Roditelj dubinski"
+
+#: String 468
+msgid "Seoname"
+msgstr "Seoname"
+
+#: String 469
+msgid "Id"
+msgstr "Id"
+
+#: String 470
+msgid "Order"
+msgstr "Drugi"
+
+#: String 471
+msgid "Info"
+msgstr "Info"
+
+#: String 472
+msgid "Warning"
+msgstr "Upozorenje"
+
+#: String 473
+msgid "Error"
+msgstr "Greska"
+
+#: String 474
+msgid "Success"
+msgstr "Uspeh"
+
+#: String 475
+msgid "New profile has been created. Welcome "
+msgstr "Novi profil je napravljen. Dobrodosli"
+
+#: String 476
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Nesto nije u redu sa slanjem slika, molimo vas proverite format"
+
+#: String 477
+msgid "Something went wrong with uploading pictures"
+msgstr "Nesto nije u redu sa slanjem slika"
+
+#: String 478
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Oglas je postavljen ali prvo ga morate aktivirati. Molimo vas proverite email!"
+
+#: String 479
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Oglas je primljen, ali prvo administrato mora da potvrdi. Hvala na strpljenju!"
+
+#: String 480
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Oglas je postavljen. Chestitamo!"
+
+#: String 481
+msgid "Captcha is not correct"
+msgstr "Chaptcha je pogresna"
+
+#: String 482
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Trenutno radimo na nasem sajtu, molimo vas posetite nas malo kasnije. Hvala"
+
+#: String 483
+msgid "Latest published"
+msgstr "Poslednje objavljeno"
+
+#: String 484
+msgid "Email Configuration updated"
+msgstr "Email komfiguracija promenjena"
+
+#: String 485
+msgid "General Configuration updated"
+msgstr "Opste komfiguracije promenjene"
+
+#: String 486
+msgid "Payments"
+msgstr "Placanje"
+
+#: String 487
+msgid "Widget parameter missing"
+msgstr "Nedostaje parametar podatka"
+
+#: String 488
+msgid "Saved"
+msgstr "Sacuvano"
+
+#: String 489
+msgid "Password is changed"
+msgstr "Lozinka je promenjena"
+
+#: String 490
+msgid "Nothing is provided"
+msgstr "nista nije uneto"
+
+#: String 491
+msgid "Passwords do not match"
+msgstr "Lozinke se ne poklapaju"
+
+#: String 492
+msgid "New password is invalid, or they do not match! Please try again."
+msgstr "Nova lozinka nije vazeca, ili se ne poklapa! Molimo vas pokusajte opet."
+
+#: String 493
+msgid "You have successfuly changed your data"
+msgstr "Uspesno ste promenili vase podatke"
+
+#: String 494
+msgid "My Advertisement page "
+msgstr "Moj Oglas strana"
+
+#: String 495
+msgid "This is not your advertisement."
+msgstr "Ovo nije vas oglas"
+
+#: String 496
+msgid "Advertisement is deactivated"
+msgstr "Oglas je deaktiviran"
+
+#: String 497
+msgid "Advertisement is active and published"
+msgstr "Oglas je aktivan i objavljen"
+
+#: String 498
+msgid "Edit advertisement"
+msgstr "Izmeni oglas"
+
+#: String 499
+msgid "Advertisement is updated!"
+msgstr "Oglas je izmenjen!"
+
+#: String 500
+msgid "Advertisement is updated"
+msgstr "Oglas je izmenjen"
+
+#: String 501
+msgid "You dont have permission to access this link"
+msgstr "Nemate dozvolu da pristupite ovom linku"
+
+#: String 502
+msgid "List"
+msgstr "Lista"
+
+#: String 503
+msgid "Edit Translation"
+msgstr "Unapredi Prevod"
+
+#: String 504
+msgid "Language saved"
+msgstr "Jezik sacuvan"
+
+#: String 505
+msgid "Error on mail delivery, not sent"
+msgstr "Greska na dostavci mail-a, nije poslato"
+
+#: String 506
+msgid "Email sent to all the users"
+msgstr "Email je poslat svim korisnicima"
+
+#: String 507
+msgid "Mail not sent"
+msgstr "Mail nije poslat"
+
+#: String 508
+msgid "Theme configuration updated"
+msgstr "Konfiguracija teme izmenjena"
+
+#: String 509
+msgid "Appearance configuration updated"
+msgstr "Konfiguracija izgleda izmenjena"
+
+#: String 510
+msgid "Mobile Theme updated"
+msgstr "Mobilna Tema izmenjena "
+
+#: String 511
+msgid "Optimize DB"
+msgstr "Optimizacija DB"
+
+#: String 512
+msgid "Database Optimized"
+msgstr "Baza podataka Optimizovana"
+
+#: String 513
+msgid "All cache deleted"
+msgstr "Sav kesh je obrisan"
+
+#: String 514
+msgid "Deleted expired cache"
+msgstr "Obrisite istekli kesh"
+
+#: String 515
+msgid "You are not using latest version of OC, please update."
+msgstr "Ne koristite poslednju veziju OC, molimo vas nadogradite."
+
+#: String 516
+msgid "System logs"
+msgstr "Log sisstem"
+
+#: String 517
+msgid "Sitemap Configuration updated"
+msgstr "Sitemap Konfiguracija izmenjena"
+
+#: String 518
+msgid "Open Classifieds migration"
+msgstr "Open Classifieds migracija"
+
+#: String 519
+msgid "Database cleaned"
+msgstr "Baza podataka ocishcena"
+
+#: String 520
+msgid "Review database connection parameters"
+msgstr "Proveri parametre koncekcije baze podataka"
+
+#: String 521
+msgid "Wrong email or password"
+msgstr "Pogresn email ili lozinka"
+
+#: String 522
+msgid "Email to recover password sent"
+msgstr "Email za povratak lozinke je poslat"
+
+#: String 523
+msgid "User not in database"
+msgstr "Korisnik nije u bazi podataka"
+
+#: String 524
+msgid "Email required"
+msgstr "Email je potreban"
+
+#: String 525
+msgid "User already exists"
+msgstr "Korisnik vec postoji"
+
+#: String 526
+msgid "Welcome!"
+msgstr "Dobro dosli!"
+
+#: String 527
+msgid "Register new user"
+msgstr "Registracija novog korisnika"
+
+#: String 528
+msgid "You do not have any published Advertisement"
+msgstr "Nemate nijedan objavljen Oglas"
+
+#: String 529
+msgid "You do not have any advertisements waiting to be published"
+msgstr "Nemate nijedan oglas koji cekad da se objavi"
+
+#: String 530
+msgid "Warning, something went wrong while deleting"
+msgstr "Upozorenje, nesto je poslo naopako prilikom brisanja"
+
+#: String 531
+msgid "Advertisement is deleted"
+msgstr "Oglas je obrisan"
+
+#: String 532
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "Upozorenje, oglas je vec oznacen kao spam"
+
+#: String 533
+msgid "Advertisement is marked as spam"
+msgstr "Oglas je oznacen kao spam"
+
+#: String 534
+msgid "Advertisement is featured"
+msgstr "Oglas je istaknut"
+
+#: String 535
+msgid "Location deleted"
+msgstr "Lokacija je obrisana"
+
+#: String 536
+msgid "Location not deleted"
+msgstr "Lokacija nije izbrisana"
+
+#: String 537
+msgid "Category deleted"
+msgstr "Kategorija je izbrisana"
+
+#: String 538
+msgid "Category not deleted"
+msgstr "Kategorija nije izbrisana"
+
+#: String 539
+msgid "Your message has been sent"
+msgstr "Poruka je poslata"
+
+#: String 540
+msgid "Message not sent"
+msgstr "Poruka nije poslata"
+
+#: String 541
+msgid "Check the form for errors"
+msgstr "Proverite greske u obrazcu"
+
+#: String 542
+msgid "You made some mistake"
+msgstr "Napravili ste neku gresku"
+
+#: String 543
+msgid "Advertisement to top"
+msgstr "Oglas na vrh"
+
+#: String 544
+msgid "Advertisement to featured"
+msgstr "Oglas na istaknutost"
+
+#: String 545
+msgid " category"
+msgstr "kategorija"
+
+#: String 546
+msgid "Order could not be loaded"
+msgstr "Narudzbina se nije uchitala"
+
+#: String 547
+msgid "Page "
+msgstr "Strana"
+
+#: String 548
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "Vas oglas je uspesno aktiviran! Hvala!"
+
+#: String 549
+msgid "We did not find any advertisements for your search."
+msgstr "Nismo pronasli oglase na osnovu vase pretrage."
+
+#: String 550
+msgid "No sitemap generated"
+msgstr "Nije generisan sitemap"
+
+#: String 551
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Trenutno ste u modu odrzavanja, samo vi ste u mogucnosti da vidite vebsajt"
+
+#: String 552
+msgid "Item created"
+msgstr "Artikal napravljen"
+
+#: String 553
+msgid "Check form for errors"
+msgstr "Proverite obrazac na greske"
+
+#: String 554
+msgid "Item updated"
+msgstr "Artikal izmenjen"
+
+#: String 555
+msgid "Access not allowed"
+msgstr "Pristup nije dozvoljen"
+
+#: String 556
+msgid "Some errors in the form"
+msgstr "Neke greske u obrazcu"
+

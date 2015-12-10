@@ -1,0 +1,116 @@
+<?php
+defined('SYSPATH') or die('No direct script access.');
+
+define('ROOT', realpath(APPPATH.'..')."/");
+
+set_include_path(get_include_path().
+	PATH_SEPARATOR.
+	APPPATH);
+//echo (get_include_path());
+require_once('phpqrcode/classes/qrlib.php');
+
+define('QR_DIR', ROOT.'qrs/');
+
+class Qr {
+   private $ad;
+   private $id;
+   private $dir;
+   private $user;
+   private $name;
+   private $email;
+
+   public function __construct($id) {
+        $this->id = $id;
+        $this->ad=          new Model_Ad($id);
+
+	$this->dir = QR_DIR.$id."/";
+	$this->user = ORM::factory('user');
+	$user_id = $this->ad->id_user;
+	$this->user =$this->user->find($user_id);
+	$this->email = $this->user->email;
+	$this->name = $this->user->name;
+	echo($this->ad->id_user.":".$this->email.":".$this->name);
+	die();
+   }
+  
+  public function reset() {
+     if (is_dir($this->dir)) {
+       array_map('unlink', glob($this->dir."*"));
+        } else {
+	   mkdir($this->dir);
+       }
+  }   
+
+
+   public function website() {
+      $site = trim($this->ad->website);
+      if (!$site) {
+	   $this->log("No website, will not create URL QR.");
+           return false;
+      }
+      if (strpos("http://", $site) != 0) {
+         $site = "http://".$site; 
+      }
+      return $this->doTheNeedful('website',$site);
+   }
+
+   private function log($s) {
+  	  Kohana::$log->add(Log::INFO, "Ad $this->id: ".$s);
+   }
+
+   public function contact() {
+          // we building raw data 
+	 $name = trim($this->ad->name);
+	 $phone = trim($this->ad->phone);
+	 $address = trim($this->ad->address);
+	 $email = $this->email;
+	 $name= $this->name;
+
+	 if (!$phone && !$address && !$email) {
+	   $this->log("No phone, email or address, will not create contact QR.");
+	 }
+
+	 $name_split = explode(" ",$name);
+	 $last_name = array_pop($name_split);
+	 array_unshift($name_split, $last_name);
+	 $sortName = implode(";", $name_split);
+
+        $codeContents  = 'BEGIN:VCARD'."\n"; 
+        $codeContents .= 'VERSION:2.1'."\n"; 
+        $codeContents .= 'N:'.$sortName."\n"; 
+        $codeContents .= 'FN:'.$name."\n"; 
+	// $codeContents .= 'ORG:'.$orgName."\n"; 
+        if ($phone) {
+           $codeContents .= 'TEL;TYPE=cell:'.$phone."\n"; 
+        }
+        
+        if ($address) {
+          $codeContents .= 'ADR;TYPE=work;'. 
+         'LABEL="'.
+	 $name.
+	 '":$address'.
+	 "\n"; 
+        }
+	if ($email) {
+	        $codeContents .= 'EMAIL:'.$email."\n"; 
+		}
+
+      $codeContents .= 'END:VCARD'; 
+      $this->doTheNeedful('contact',$codeContents);
+   }
+
+   private function doTheNeedful($type, $payload) {
+      $qr_path = $this->dir.$this->id."_".$type.".png";
+      $this->log("Writing to $qr_path...");
+      $f = QRcode::png($payload, $qr_path, QR_ECLEVEL_H, 4);      
+      return $qr_path;
+}       
+   
+   public function qr() {
+     $retval = array();
+     $retval[] = $this->website();
+     $retval[] = $this->contact();
+     return $retval;
+   }
+}
+?>
